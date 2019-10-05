@@ -1,5 +1,4 @@
 # Bienvenide a mi blog
-Personal blog
 
 En las últimas semanas, volviendo a la facultad y en otros eventos terminé conversando sobre mi experiencia de aprender a programar y quiero compartir un poco los recursos que utilicé, y utilizo, para aprender.
 
@@ -22,47 +21,79 @@ En las últimas semanas, volviendo a la facultad y en otros eventos terminé con
 [RealPython](https://realpython.com/)
 
 ## Charlas
-Beyond PEP8, Raymond Hettinger
+
+Raymond Hettinger
+
+  Beyond PEP8 
+
 Facundo Batista
+
 Jake van Der Plas
 
 
 # Intermedio:
 
+Generators
+
+
 
 # Programación Científica:
 
 Numpy
+
 Sympy
 
 
 # Análisis de Datos
 
 Pandas
-DataScience
+
 SQL
 
+# Machine Learning
+  
+  - Scikit Learn
+  - Scikit Image
+  - ELI5
+
+
+
 # Ambientes de trabajo online
+
 [binder](https://mybinder.org/)
+
 [Google Colab](http://colab.research.google.com/)
+
 [Cocalc](https://cocalc.com/)
 
 # Gráficos
+
 Matplotlib
+
 Seaborn
+
 Altair
+
 Bqplot
 
 # Testing
+
 Test and Code
 
 # Libros
+
 Allen Dowey
 
+jvdp
+
 # Cursos Online
+
 Coursera
+
 Edx
+
 Udacity
+
 FrontendMasters
   [Git in Depth](https://frontendmasters.com/courses/git-in-depth/)
-[Pluralsight](https://www.pluralsight.com/)
+  [Pluralsight](https://www.pluralsight.com/)
