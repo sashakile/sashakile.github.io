@@ -4,58 +4,58 @@ En las últimas semanas, volviendo a la facultad y en otros eventos terminé con
 
 Primero un par de aclaraciones. 
 
-Como cualquier diciplina la programación toma tiempo en aprender, así que no desitan.
+Como cualquier disciplina la programación toma tiempo en aprender, así que no desistan.
 
 Es una actividad práctica, de manera que solo leer de programación no te va a hacer une experte.
 
 La forma de aprender que tengo es: 
 
-  - Si tengo interes en aprender sobre un tema nuevo, leo de muchos lugares sobre el tema, empezando por blogs o libros. Una vez que tengo una minima idea de que consiste busco en un ejemplo para realizar. Normalmente es reconstruir algo que hacen en un blog. Después dejo el tema de lado por un par de días y releo lo que hice. 
+  - Si tengo interés en aprender sobre un tema nuevo, leo de muchos lugares sobre el tema, empezando por blogs o libros. Una vez que tengo una minima idea de que consiste busco en un ejemplo para realizar. Normalmente es reconstruir algo que hacen en un blog. Después dejo el tema de lado por un par de días y releo lo que hice. 
   
-  - Si tengo mucha urgencia para enternder, busco un tutorial que explique paso a paso y lo voy siguiendo. Normalmente son tutoriales escritos, pero muchas veces veo videos en youtube.
+  - Si tengo mucha urgencia para entender, busco un tutorial que explique paso a paso y lo voy siguiendo. Normalmente son tutoriales escritos, pero muchas veces veo videos en youtube.
    
-Tengo un sesgo muy grande hacia Python, porque me da de comer y además porque me permitió conocer gente muy linda (PyAr == :green_heart:).
+Tengo un sesgo muy grande hacia Python, porque me da de comer y además porque me permitió conocer gente muy linda ([ PyAr == :green_heart:](http://www.python.org.ar/nosotros/) ).
 
 
 # Para iniciar:
 
 [mumuki.io](https://mumuki.io/central)
   
-  Conocí *mumuki* en Innovar 2016, los chicos estaban presentando el projecto en el stand de alado así que estuve un buen tiempo jugando y probando las distintas actividades. Al día de hoy ( octubre 2019 ) la plataforma creció un montón y me parece que va mejorando la calidad. 
+  Conocí *mumuki* en Innovar 2016, los chicos estaban presentando el proyecto en el stand de al lado así que estuve un buen tiempo jugando y probando las distintas actividades. Al día de hoy ( octubre 2019 ) la plataforma creció un montón y me parece que va mejorando la calidad. 
   
-  Si nunca programaste, este es para mí el mejor lugar para empeazar. Porque está enfocado, como me decían los chicos, a enseñar los conceptos y a pensar como programador, y no un lenguaje en particular. 
+  Si nunca programaste, este es para mí el mejor lugar para empezar. Porque está enfocado, como me decían los chicos, a enseñar los conceptos y a pensar como programador, y no un lenguaje en particular. 
 
 [HackerRank](https://www.hackerrank.com/)
 
-  Este sitio lo empecé a usar en 2017, cuando quice aplicar a la pasantía en Medallia. Ya que la prueba de ingreso la hacen por ahí. El sitio tiene varios projectos y temas que uno puede realizar en varios lenguajes de programación y  además tiene tutoriales en el mismo sitio. Lo único malo, es que está en inglés.
+  Este sitio lo empecé a usar en 2017, cuando quise aplicar a la pasantía en Medallia. Ya que la prueba de ingreso la hacen por ahí. El sitio tiene varios proyectos y temas que uno puede realizar en varios lenguajes de programación y  además tiene tutoriales en el mismo sitio. Lo único malo, es que está en inglés.
 
 [FreeCodeCamp](https://www.freecodecamp.org/)
 
-  FreeCodeCamp es un gran sitio para aprender desarrollo web. Lo encontré el [blog en Medium](https://www.freecodecamp.org/news/)  a mediados de 2017 y después me enteré que había un capítulo/meetup en Bs As. Ahí empecé a asistir a los eventos de [freeCodeCampBA](https://freecodecampba.org/) y fui aprendiendo lo básico de programación web ( HTML, CSS, JavaScript y sus derivados ) pero nunca fue lo mío (vease este blog), pero siempre me saca de aprietos. 
-  La página tiene una plataforma muy linda ya que es interactiva y con un programa bien extenso, y está enfocada a desarrollar proyectos de manera que termines con un portfolio y demuestres tus capacidades. Les chiques de BsAs además tienen una [excelente guía](https://github.com/FreeCodeCampBA/quick-start) para arrancar, más allá de los ejercicios oficilales.
+  FreeCodeCamp es un gran sitio para aprender desarrollo web. Lo encontré el [blog en Medium](https://www.freecodecamp.org/news/)  a mediados de 2017 y después me enteré que había un capítulo/meetup en Bs As. Ahí empecé a asistir a los eventos de [freeCodeCampBA](https://freecodecampba.org/) y fui aprendiendo lo básico de programación web ( HTML, CSS, JavaScript y sus derivados ) pero nunca fue lo mío (véase este blog), pero siempre me saca de aprietos. 
+  La página tiene una plataforma muy linda ya que es interactiva y con un programa bien extenso, y está enfocada a desarrollar proyectos de manera que termines con un portfolio y demuestres tus capacidades. Les chiques de BsAs además tienen una [excelente guía](https://github.com/FreeCodeCampBA/quick-start) para arrancar, más allá de los ejercicios oficiales.
 
   
 [Software Carpentry](https://software-carpentry.org/lessons/) 
 
-  Esta página no me acuerdo cuando ni como la conocí pero, siempre que entro me dan ganas de hacer más cosas. Tiene muchos una cantidad de cursos bastante variada y lo mejor es que se están traduciendo varios al castellano. Por ahora solo hay tres, 
+  Esta página no me acuerdo cuándo ni cómo la conocí pero, siempre que entro me dan ganas de hacer más cosas. Tiene muchos una cantidad de cursos bastante variada y lo mejor es que se están traduciendo varios al castellano. Por ahora solo hay tres, 
 
 [ProjectEuler](https://projecteuler.net/)
 
-  Esta página la conozco desde principios de 2012 cuando cursé Algoritmos y estructuras de datos I, en el Departamento de Computación de la UBA. La cual cabe decir fue la única y última materia que cursé de esa carrera, dado que no la aprobé por sobre exigirme. Está más enfocada a problemas un poco más academicos y del estilo de una prueba de matemática, pero son un gran desafío y hay que pensar bastante. A la página regreso cada tanto cuando tengo un rato de distención y me siento con ganas de resolver un desafío, pero puede que termine sin dormir y con mucho mate encima. Así que quedan advertides.
+  Esta página la conozco desde principios de 2012 cuando cursé Algoritmos y estructuras de datos I, en el Departamento de Computación de la UBA. La cual cabe decir fue la única y última materia que cursé de esa carrera, dado que no la aprobé por sobre exigirme. Está más enfocada a problemas un poco más académicos y del estilo de una prueba de matemática, pero son un gran desafío y hay que pensar bastante. A la página regreso cada tanto cuando tengo un rato de distensión y me siento con ganas de resolver un desafío, pero puede que termine sin dormir y con mucho mate encima. Así que quedan advertides.
   
 [RealPython](https://realpython.com/)
 
-  Este es más específico de Python pero tiene los mejores turoriales de la web. Lo conocí por [Dan Bader](https://dbader.org/) un personaje bastante agradable de la comunidad. 
+  Este es más específico de Python pero tiene los mejores tutoriales de la web. Lo conocí por [Dan Bader](https://dbader.org/) un personaje bastante agradable de la comunidad. 
 
 
 [PythonTutor](http://pythontutor.com/)
 
-  No me acuerdo como conocí esto, pero me parece que fue a partir de un blog o un podcast. Donde hablaban sobre Philip Guo y el programita que había hecho para explicar el f[funcionamiento interno de CPython](http://pgbovine.net/cpython-internals.htm) en su clase de la Universidad[funcionamiento interno de CPython](http://pgbovine.net/cpython-internals.htm). En su momento vi todo el curso pero no entendí absolutamente nada, supogo que ahora tampoco ( es bastante avanzado y específico ), pero la herramienta que construyó es increible. Y ahora tiene soporte para muchos lenguajes más, pero quedó con el nombre de Python Tutor por tradición. [Entrevista en TalkPython](https://talkpython.fm/episodes/show/22/cpython-internals-and-learning-python-with-pythontutor.com)
+  No me acuerdo cómo conocí esto, pero me parece que fue a partir de un blog o un podcast. Donde hablaban sobre Philip Guo y el programa que había hecho para explicar el f[funcionamiento interno de CPython](http://pgbovine.net/cpython-internals.htm) en su clase de la Universidad[funcionamiento interno de CPython](http://pgbovine.net/cpython-internals.htm). En su momento vi todo el curso pero no entendí absolutamente nada, supongo que ahora tampoco ( es bastante avanzado y específico ), pero la herramienta que construyó es increíble. Y ahora tiene soporte para muchos lenguajes más, pero quedó con el nombre de Python Tutor por tradición. [Entrevista en TalkPython](https://talkpython.fm/episodes/show/22/cpython-internals-and-learning-python-with-pythontutor.com)
 
 
 [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
-  Este es uno de mis canales favoritos de Youtube y el curso de Ciencias de la Computacion es muy bueno para entender un poco la historia y tener una introducción a lo que hace une cientifique de la Computación.
+  Este es uno de mis canales favoritos de Youtube y el curso de Ciencias de la Computación es muy bueno para entender un poco la historia y tener una introducción a lo que hace une cientifique de la Computación.
   
   
 # Git
@@ -64,7 +64,7 @@ Tengo un sesgo muy grande hacia Python, porque me da de comer y además porque m
  
  Me parece que en el [quick start de freeCodeCamp](https://github.com/FreeCodeCampBA/quick-start) hay mejores materiales para empezar. O también en el [taller de Software Carpentry](https://swcarpentry.github.io/git-novice-es/).
  
- Y tambien cada tanto ver la charla de [Por qué TENÉS que conocer GIT](https://www.youtube.com/watch?v=okJf65oIxJ8) que dió [https://twitter.com/sofide_](https://twitter.com/sofide_) en la PyConAr2018.
+ Y también cada tanto ver la charla de [Por qué TENÉS que conocer GIT](https://www.youtube.com/watch?v=okJf65oIxJ8) que dió [https://twitter.com/sofide_](https://twitter.com/sofide_) en la PyConAr2018.
 
 Y para realmente sacarle provecho a git recomiendo este tutorial bastante avanzado de 
   [Git in Depth](https://frontendmasters.com/courses/git-in-depth/) por [Nina Zakharenko](https://www.nnja.io/)
