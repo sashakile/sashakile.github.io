@@ -96,7 +96,7 @@ Acá voy a ir poniendo charlas que creo que me ayudaron a entender bastantes cos
   
   - [Entendiendo Unicode](https://www.youtube.com/watch?v=pQJ0emlYv50)
 
-[Jake vanderPlas](http://vanderplas.com/)
+[Jake VanderPlas](http://vanderplas.com/)
 
   - [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
  
@@ -226,29 +226,29 @@ Acá voy a ir poniendo charlas que creo que me ayudaron a entender bastantes cos
 
 # [Jupyter](https://jupyter.org/)
 
- -[Ipython](http://ipython.org/)
+ - [Ipython](http://ipython.org/)
  
- -[Widgets](https://github.com/jupyter-widgets) [tutorial](https://github.com/jupyter-widgets/tutorial)
+ - [Widgets](https://github.com/jupyter-widgets) [tutorial](https://github.com/jupyter-widgets/tutorial)
   
  
 
 # Ambientes de trabajo online
 
-[binder](https://mybinder.org/)
+- [binder](https://mybinder.org/)
 
-[Google Colab](http://colab.research.google.com/)
+- [Google Colab](http://colab.research.google.com/)
 
-[Cocalc](https://cocalc.com/)
+- [Cocalc](https://cocalc.com/)
 
 # Gráficos
 
--[Matplotlib](https://matplotlib.org/)
+- [Matplotlib](https://matplotlib.org/)
 
--[Seaborn](https://seaborn.pydata.org/)
+- [Seaborn](https://seaborn.pydata.org/)
 
--[Altair](https://altair-viz.github.io/)
+- [Altair](https://altair-viz.github.io/)
 
--[bqplot](https://github.com/bloomberg/bqplot)
+- [bqplot](https://github.com/bloomberg/bqplot)
 
 # Testing
 
