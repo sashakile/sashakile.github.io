@@ -1,0 +1,4 @@
+Sitemap: https://sashakile.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: sashakile.github.io
