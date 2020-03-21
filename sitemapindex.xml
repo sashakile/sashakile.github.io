@@ -7,43 +7,43 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://sashakile.github.io/categories/blog.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/cat_nikola.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/demo.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/nikola.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/python.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/blog.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/cat_nikola.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/demo.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/nikola.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/python.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/galleries/demo/rss.xml</loc>
@@ -55,7 +55,7 @@
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/rss.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/galleries/demo/rss.xml</loc>
@@ -67,10 +67,10 @@
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/rss.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/sitemap.xml</loc>
-  <lastmod>2020-03-21T04:04:00Z</lastmod>
+  <lastmod>2020-03-21T21:05:00Z</lastmod>
  </sitemap>
 </sitemapindex>
