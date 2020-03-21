@@ -199,3 +199,5 @@
 'copy_assets', (302080, 56)
 'render_sources:output\\pages\\path-handlers\\index.rst', (302592, 255)
 'render_taxonomies:output\\index.html', (303104, 5286)
+'render_galleries:output\\galleries', (308736, 145)
+'render_galleries:output\\galleries\\demo', (309248, 145)
