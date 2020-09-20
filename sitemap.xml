@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://sashakile.github.io/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-20T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/2020/</loc>
@@ -15,7 +15,11 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/archive.html</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-20T15:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/blog/</loc>
+  <lastmod>2020-09-20T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/</loc>
@@ -26,16 +30,16 @@
   <lastmod>2020-09-20T14:31:00Z</lastmod>
  </url>
  <url>
-  <loc>https://sashakile.github.io/en/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
- </url>
- <url>
   <loc>https://sashakile.github.io/en/2020/</loc>
   <lastmod>2020-09-20T14:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/archive.html</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-20T15:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/en/blog/</loc>
+  <lastmod>2020-09-20T15:02:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/</loc>
