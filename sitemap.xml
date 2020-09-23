@@ -7,223 +7,243 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://sashakile.github.io/</loc>
-  <lastmod>2020-09-20T15:02:00Z</lastmod>
+  <lastmod>2020-09-23T04:56:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/2020/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/2prog/</loc>
+  <lastmod>2020-09-23T04:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/archive.html</loc>
-  <lastmod>2020-09-20T15:02:00Z</lastmod>
+  <lastmod>2020-09-23T04:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/binder/</loc>
+  <lastmod>2020-09-23T04:48:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/blog/</loc>
-  <lastmod>2020-09-20T15:02:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/testing-nikola/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/dataScience/</loc>
+  <lastmod>2020-09-23T04:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/2020/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/archive.html</loc>
-  <lastmod>2020-09-20T15:02:00Z</lastmod>
+  <lastmod>2020-09-23T04:48:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/blog/</loc>
-  <lastmod>2020-09-20T15:02:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/testing-nikola/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/galleries/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/galleries/demo/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/about-nikola/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/about-nikola/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/bootstrap-demo/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/bootstrap-demo/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/charts/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/charts/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/creating-a-theme/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/creating-a-theme/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/dr-nikolas-vendetta/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/dr-nikolas-vendetta/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/extending/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/extending/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/handbook/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/handbook/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/home/</loc>
-  <lastmod>2020-09-20T14:34:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/home/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/internals/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/internals/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/listings-demo/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/listings-demo/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/path-handlers/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/path-handlers/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/quickref/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/quickref/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/quickstart/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/quickstart/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/social_buttons/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/social_buttons/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/pages/theming/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/theming/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/posts/completando-las-configuraciones-de-nikola/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/completando-las-configuraciones-de-nikola/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/posts/hola-mundo/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/hola-mundo/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/galleries/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/galleries/demo/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/haskell/</loc>
+  <lastmod>2020-09-23T04:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/listings/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/listings/hello.py.html</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T04:48:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/about-nikola/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/bootstrap-demo/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/charts/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/creating-a-theme/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/dr-nikolas-vendetta/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/extending/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/handbook/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/home/</loc>
-  <lastmod>2020-09-20T14:34:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/internals/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/listings-demo/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/path-handlers/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/quickref/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/quickstart/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/social_buttons/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/theming/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/posts/completando-las-configuraciones-de-nikola/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/posts/hola-mundo/</loc>
-  <lastmod>2020-09-20T14:31:00Z</lastmod>
+  <lastmod>2020-09-23T02:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/vscode/</loc>
+  <lastmod>2020-09-23T03:29:00Z</lastmod>
  </url>
 </urlset>
