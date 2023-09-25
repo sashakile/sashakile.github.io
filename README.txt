@@ -1,6 +1,8 @@
-This folder contains the source used to generate a static site using Nikola.
+To install dependencies
 
-Installation and documentation at https://getnikola.com/
+   python -m venv venv
+   source ./venv/bin/activate.fish #on fish
+   python -m pip install -r requirements.txt
 
 Configuration file for the site is ``conf.py``.
 
@@ -11,6 +13,14 @@ To build the site::
 To see it::
 
     nikola serve -b
+
+To create new post::
+
+   nikola new_post -f markdown
+
+To publish to GH Pages::
+
+   nikola github_deploy
 
 To check all available commands::
 

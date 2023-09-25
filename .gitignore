@@ -4,3 +4,4 @@ cache
 .doit.db.dat
 __pycache__
 output
+.env
