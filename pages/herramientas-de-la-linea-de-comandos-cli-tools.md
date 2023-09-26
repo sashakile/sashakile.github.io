@@ -12,9 +12,16 @@
 
 # CLI tools
 
+## Editores de texto
+
+- emacs
+- helix
+
+## Herramientas
+
 - bat
-- emacs | helix
 - fd
+- fish
 - fzf
 - gh
 - gitui
@@ -23,6 +30,11 @@
 - uutils-coreutils
 - zoxide
 
+## Lenguajes
+
+- dotnet (C#/F#/Clojure-CLR)
+- [julia](https://github.com/julialang/juliaup)
+- python
 
 # Windows
 
@@ -42,7 +54,12 @@ Para instalar muchos de los cli preferiblemente instalar con `cargo`, y obtenerl
 
 Para instalar [`gh` cli](https://github.com/cli/cli/blob/trunk/docs/install_linux.md)
 
+Para instalar [dotnet](https://learn.microsoft.com/en-us/dotnet/core/install/linux)
+
 ## Ubuntu
 
 Para instalar diferentes versiones de python usar el repositorio [deadsnakes](https://github.com/deadsnakes)
 
+---
+
+Tambien ver las [herramientas graficas](link://herramientas-graficas)

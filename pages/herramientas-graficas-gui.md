@@ -21,4 +21,6 @@ Para instalar usar la linea de comandos, ver [Herramientas de la linea de comand
 - greenshot
 - linqpad
 - powertoys
+- sysinternals
 - windows-terminal
+- windirstat
