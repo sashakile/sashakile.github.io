@@ -64,3 +64,31 @@ Get-Command
 ```powershell
 Get-Alias
 ```
+
+### Cambiar la unicación
+
+```powershell
+Set-Location
+```
+
+### Agregar ubicación al *stack*
+
+```powershell
+Push-Location
+```
+
+### Cambiar ubicación al elemento más reciente del *stack*
+
+```powershell
+Pop-Location
+```
+
+## TODO
+
+```powershell
+Invoke-Item
+Invoke-Expression
+Invoke-WebRequest
+Start-Process
+Set-Clipboard
+```

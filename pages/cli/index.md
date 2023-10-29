@@ -9,6 +9,8 @@
 .. type: text
 -->
 
+[Dotnet](link://slug/dotnet)
+
 [Git](link://slug/git)
 
 [Powershell](link://slug/powershell)
