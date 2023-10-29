@@ -138,9 +138,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archivo"),
-        ("/categories/", "Etiquetas"),
-        ("/rss.xml", "Canal RSS"),
+        ("/home.html", "home"),
+        ("/pages/cli/index.html", "cli"),
+        ("/pages/alt-doc/index.html", "alt-doc"),
     ),
 
     "en": (
@@ -624,7 +624,7 @@ ATOM_FILENAME_BASE = "feed"
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = [("index.html","home.html")]
+REDIRECTIONS = []
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:
