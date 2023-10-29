@@ -7,202 +7,196 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://sashakile.github.io/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/2020/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/2prog/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/alt-doc/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/archive.html</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:40:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/binder/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/blog/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/testing-nikola/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/cli/dotnet/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/cli/git/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/cli/powershell/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/cli/python/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/dataScience/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/en/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/2020/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/en/alt-doc/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/archive.html</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:40:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/blog/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/testing-nikola/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
-  <loc>https://sashakile.github.io/en/pages/alt-doc/</loc>
-  <lastmod>2023-10-29T20:52:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/alt-doc/" />
+  <loc>https://sashakile.github.io/en/cli/dotnet/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/cli/dotnet/" />
  </url>
  <url>
-  <loc>https://sashakile.github.io/en/pages/cli/</loc>
-  <lastmod>2023-10-29T20:13:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/cli/" />
+  <loc>https://sashakile.github.io/en/cli/git/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/cli/git/" />
  </url>
  <url>
-  <loc>https://sashakile.github.io/en/pages/cli/dotnet/</loc>
-  <lastmod>2023-10-29T20:13:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/cli/dotnet/" />
+  <loc>https://sashakile.github.io/en/cli/powershell/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/cli/powershell/" />
  </url>
  <url>
-  <loc>https://sashakile.github.io/en/pages/cli/git/</loc>
-  <lastmod>2023-10-29T19:49:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/cli/git/" />
+  <loc>https://sashakile.github.io/en/cli/python/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/cli/python/" />
  </url>
  <url>
-  <loc>https://sashakile.github.io/en/pages/cli/powershell/</loc>
-  <lastmod>2023-10-29T17:32:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/cli/powershell/" />
+  <loc>https://sashakile.github.io/en/herramientas-de-la-linea-de-comandos/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
-  <loc>https://sashakile.github.io/en/pages/cli/python/</loc>
-  <lastmod>2023-10-29T19:40:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/cli/python/" />
+  <loc>https://sashakile.github.io/en/herramientas-graficas/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
-  <loc>https://sashakile.github.io/en/pages/herramientas-graficas/</loc>
-  <lastmod>2023-09-25T23:44:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/herramientas-graficas/" />
- </url>
- <url>
-  <loc>https://sashakile.github.io/en/pages/home/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/home/" />
- </url>
- <url>
-  <loc>https://sashakile.github.io/en/pages/quiero_empezar_a_programar/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/quiero_empezar_a_programar/" />
- </url>
- <url>
-  <loc>https://sashakile.github.io/en/pages/setups/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/setups/" />
+  <loc>https://sashakile.github.io/en/herramientas/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/posts/completando-las-configuraciones-de-nikola/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/completando-las-configuraciones-de-nikola/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/posts/hola-mundo/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/hola-mundo/" />
  </url>
  <url>
-  <loc>https://sashakile.github.io/haskell/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <loc>https://sashakile.github.io/en/quiero_empezar_a_programar/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
-  <loc>https://sashakile.github.io/home.html</loc>
-  <lastmod>2023-09-11T22:51:00Z</lastmod>
+  <loc>https://sashakile.github.io/en/setups/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/haskell/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/herramientas-de-la-linea-de-comandos/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/herramientas-graficas/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/herramientas/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/julia/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/listings/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/listings/hello.py.html</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/pages/alt-doc/</loc>
-  <lastmod>2023-10-29T20:52:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/pages/cli/</loc>
-  <lastmod>2023-10-29T20:13:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/pages/cli/dotnet/</loc>
-  <lastmod>2023-10-29T20:13:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/pages/cli/git/</loc>
-  <lastmod>2023-10-29T19:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/pages/cli/powershell/</loc>
-  <lastmod>2023-10-29T17:33:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/pages/cli/python/</loc>
-  <lastmod>2023-10-29T19:40:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/pages/herramientas-graficas/</loc>
-  <lastmod>2023-09-25T23:44:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/pages/home/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/pages/quiero_empezar_a_programar/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/pages/setups/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:40:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pluto/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/porDondeEmpiezo/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/posts/completando-las-configuraciones-de-nikola/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/posts/hola-mundo/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/previaPyConAr2020/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/quiero_empezar_a_programar/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/setups/</loc>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/vscode/</loc>
-  <lastmod>2023-09-25T22:39:00Z</lastmod>
+  <lastmod>2023-10-29T22:32:00Z</lastmod>
  </url>
 </urlset>
