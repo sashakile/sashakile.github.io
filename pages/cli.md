@@ -9,4 +9,8 @@
 .. type: text
 -->
 
-Escriba su página aquí.
+[Git](link://slug/git)
+
+[Powershell](link://slug/powershell)
+
+[Python](link://slug/python)
