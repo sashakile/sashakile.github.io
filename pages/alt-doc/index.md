@@ -17,8 +17,8 @@ Es una manera de practicar, conocer, explorar y comparitir el proceso de generar
 
 # Docs
 
-[C#](link://alt-doc-csharp)
+[C#](https://saxa.xyz/alt-doc-csharp)
 
-[Julia](link://alt-doc-julia)
+[Julia](https://saxa.xyz/alt-doc-julia)
 
-[Python](link://alt-doc-python)
+[Python](https://saxa.xyz/alt-doc-python)
