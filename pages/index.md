@@ -1,5 +1,5 @@
 <!--
-.. title: Hello
+.. title: Bienvenidε
 .. slug: index
 .. date: 2023-10-29 18:24:54 UTC-03:00
 .. tags: 
@@ -9,6 +9,6 @@
 .. type: text
 -->
 
+[Herramientas](link://slug/herramientas)
 
-[Herramientas de la linea de comandos](link://slug/herramientas-de-la-linea-de-comandos)
-[Herramientas graficas](link://slug/herramientas-graficas)
+[alt-doc](link://slug/alt-doc)
