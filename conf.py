@@ -138,15 +138,15 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/index.html", "home"),
-        ("/cli", "cli"),
+        ("/", "home"),
+        ("/herramientas", "herramientas"),
         ("/alt-doc", "alt-doc"),
+        ("/blog", "blog"),
     ),
 
     "en": (
-        ("/en/archive.html", "Archive"),
-        ("/en/categories/", "Tags"),
-        ("/en/rss.xml", "RSS feed"),
+        ("/en/index.html", "Home"),
+        ("/en/tools", "Tools"),
     ),
 }
 
