@@ -1,0 +1,30 @@
+<!--
+.. title: python
+.. slug: python
+.. date: 2023-10-29 14:07:04 UTC-03:00
+.. tags: cli
+.. category: cli 
+.. link: 
+.. description: 
+.. type: text
+-->
+
+### Obtener ayuda
+
+```sh
+python --help
+```
+
+### Obtener versión
+
+```sh
+python --version
+```
+
+### Ejecutar un módulo
+
+```sh
+python -m
+```
+
+
