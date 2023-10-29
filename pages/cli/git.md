@@ -44,3 +44,15 @@ git merge repo/branch
 ```bash
 git fetch --all --prune; git merge origin/master
 ```
+
+### Crear otro árbol de trabajo *worktree*
+
+```bash
+git worktree add -b nueva_branch commit ../path
+```
+
+### Listar *worktrees*
+
+```bash
+git worktree list
+```
