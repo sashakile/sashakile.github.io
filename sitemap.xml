@@ -62,6 +62,11 @@
   <lastmod>2023-09-25T22:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://sashakile.github.io/en/pages/alt-doc/</loc>
+  <lastmod>2023-10-29T20:52:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/alt-doc/" />
+ </url>
+ <url>
   <loc>https://sashakile.github.io/en/pages/cli/</loc>
   <lastmod>2023-10-29T20:13:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/pages/cli/" />
@@ -135,6 +140,10 @@
  <url>
   <loc>https://sashakile.github.io/listings/hello.py.html</loc>
   <lastmod>2023-09-25T22:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/pages/alt-doc/</loc>
+  <lastmod>2023-10-29T20:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pages/cli/</loc>
