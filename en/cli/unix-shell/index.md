@@ -33,6 +33,18 @@ O descartar la salida
 comando &>/dev/null &
 ```
 
+### Regresar un proceso secundario a principal
+
+```sh
+fg <id>
+```
+
+El `id` se puede ver con
+
+```sh
+jobs
+```
+
 ### Agregar un usuario
 
 ```sh
