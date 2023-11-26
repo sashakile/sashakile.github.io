@@ -22,3 +22,5 @@
 [Powershell](link://slug/powershell)
 
 [Python](link://slug/python)
+
+[Unix Shell](link://slug/unix-shell)
