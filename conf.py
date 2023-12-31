@@ -141,15 +141,16 @@ INDEX_READ_MORE_LINK = '<a class="button is-link" href="{link}" style="height:28
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "fa fa-home"),
-        ("/herramientas", "fa fa-terminal"),
+        ("/herramientas", "fa fa-wrench"),
         ("/alt-doc", "fa fa-book"),
         ("/blog", "fa fa-newspaper-o"),
         ("http:///linkedin.com/in/augusto-kiel", "fa fa-linkedin"),
         ("http://github.com/akielbowicz", "fa fa-github"),
+        ("/en", "fa fa-language")
     ),
 
     "en": (
-        ("/en/index.html", "fa fa-home"),
+        ("/en", "fa fa-home"),
         ("/en/tools", "fa fa-terminal"),
         ("http:///linkedin.com/in/augusto-kiel/?locale=en_US", "fa fa-linkedin"),
         ("http://github.com/akielbowicz", "fa fa-github"),
