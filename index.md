@@ -9,5 +9,6 @@
 .. type: text
 -->
 
-
-
+- [presentaciones](http://charlas.saxa.xyz)
+- [slides](http://slides.saxa.xyz)
+- [tesis](https://github.com/akielbowicz/randomWalk-matlab)

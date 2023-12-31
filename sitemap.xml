@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://sashakile.github.io/</loc>
-  <lastmod>2023-12-31T18:44:00Z</lastmod>
+  <lastmod>2023-12-31T19:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/2020/</loc>
@@ -23,7 +23,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/archive.html</loc>
-  <lastmod>2023-12-31T19:08:00Z</lastmod>
+  <lastmod>2023-12-31T19:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/binder/</loc>
@@ -67,7 +67,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/</loc>
-  <lastmod>2023-12-31T18:44:00Z</lastmod>
+  <lastmod>2023-12-31T19:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/2020/</loc>
@@ -79,7 +79,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/archive.html</loc>
-  <lastmod>2023-12-31T19:08:00Z</lastmod>
+  <lastmod>2023-12-31T19:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/blog/</loc>
@@ -131,10 +131,6 @@
   <lastmod>2023-12-31T18:44:00Z</lastmod>
  </url>
  <url>
-  <loc>https://sashakile.github.io/en/index.src.html</loc>
-  <lastmod>2023-12-31T18:20:00Z</lastmod>
- </url>
- <url>
   <loc>https://sashakile.github.io/en/posts/completando-las-configuraciones-de-nikola/</loc>
   <lastmod>2023-12-31T18:44:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/completando-las-configuraciones-de-nikola/" />
@@ -169,10 +165,6 @@
   <lastmod>2023-12-31T18:44:00Z</lastmod>
  </url>
  <url>
-  <loc>https://sashakile.github.io/index.src.html</loc>
-  <lastmod>2023-12-31T18:20:00Z</lastmod>
- </url>
- <url>
   <loc>https://sashakile.github.io/julia/</loc>
   <lastmod>2023-12-31T18:44:00Z</lastmod>
  </url>
@@ -182,7 +174,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/listings/hello.py.html</loc>
-  <lastmod>2023-12-31T19:08:00Z</lastmod>
+  <lastmod>2023-12-31T19:25:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pluto/</loc>
