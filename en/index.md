@@ -9,6 +9,5 @@
 .. type: text
 -->
 
-[Herramientas](link://slug/herramientas)
 
-[alt-doc](link://slug/alt-doc)
+
