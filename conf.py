@@ -136,17 +136,23 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+INDEX_READ_MORE_LINK = '<a class="button is-link" href="{link}" style="height:28px"> {read_more} <span class="icon is-small"> <i class="fa fa-angle-double-right"></i></span></a>'
+
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/", "inicio 🏡"),
-        ("/herramientas", "herramientas 🛠"),
-        ("/alt-doc", "alt-doc 📓"),
-        ("/blog", "blog 📰"),
+        ("/", "fa fa-home"),
+        ("/herramientas", "fa fa-terminal"),
+        ("/alt-doc", "fa fa-book"),
+        ("/blog", "fa fa-newspaper-o"),
+        ("http:///linkedin.com/in/augusto-kiel", "fa fa-linkedin"),
+        ("http://github.com/akielbowicz", "fa fa-github"),
     ),
 
     "en": (
-        ("/en/index.html", "Home"),
-        ("/en/tools", "Tools"),
+        ("/en/index.html", "fa fa-home"),
+        ("/en/tools", "fa fa-terminal"),
+        ("http:///linkedin.com/in/augusto-kiel/?locale=en_US", "fa fa-linkedin"),
+        ("http://github.com/akielbowicz", "fa fa-github"),
     ),
 }
 
@@ -158,7 +164,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "hemingway"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -1115,6 +1121,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # <script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
 # <!-- End of social buttons -->
 # """
+
 
 # Show link to source for the posts?
 # SHOW_SOURCELINK = True
