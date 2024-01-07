@@ -3,13 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>unix shell | In not like Sasha</title>
+<title>Peleando con configuraciones en GitHub Pages y Jekyll | In not like Sasha</title>
 <link href="../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS (en)" hreflang="en" href="../../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (es)" hreflang="es" href="../../../rss.xml">
-<link rel="canonical" href="https://sashakile.github.io/en/cli/unix-shell/">
+<link rel="canonical" href="https://sashakile.github.io/en/posts/peleando-con-configuraciones-en-github-pages-y-jekyll/">
 <link rel="icon" href="../../../sx.ico" sizes="16x16">
 <!--[if lt IE 9]><script src="../../../assets/js/html5shiv-printshiv.min.js"></script><![endif]--><link href="../../../assets/css/rst.css" rel="stylesheet" type="text/css">
 <link href="../../../assets/css/code.css" rel="stylesheet" type="text/css">
@@ -17,27 +17,17 @@
 <link rel="stylesheet" href="../../../assets/css/style.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 <meta name="author" content="sasha kile">
+<link rel="prev" href="../completando-las-configuraciones-de-nikola/" title="Completando las configuraciones de Nikola" type="text/html">
 <meta property="og:site_name" content="In not like Sasha">
-<meta property="og:title" content="unix shell">
-<meta property="og:url" content="https://sashakile.github.io/en/cli/unix-shell/">
-<meta property="og:description" content="Obtener ayuda de un comando
-man comando
+<meta property="og:title" content="Peleando con configuraciones en GitHub Pages y Jekyll">
+<meta property="og:url" content="https://sashakile.github.io/en/posts/peleando-con-configuraciones-en-github-pages-y-jekyll/">
+<meta property="og:description" content="Finalmente me decidí por reorganizar el blog y eso derivó en también cambiar la estructura del repositorio de las presentaciones akielbowicz/presentations.
+TL;DR
 
-
-Ejecutar un comando en segundo plano (background)
-comando &amp;
-
-
-Además, no mostrar la salida, enviandola a un archivo
-comando &amp;&gt;/algun/archivo &amp;
-
-
-O descartar l">
+Cambiar de 1 branch por charla por un">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2023-11-26T14:03:28-03:00">
-<meta property="article:tag" content="cli">
-<meta property="article:tag" content="unix">
-<link rel="alternate" hreflang="es" href="../../../cli/unix-shell/">
+<meta property="article:published_time" content="2024-01-07T17:26:30-03:00">
+<link rel="alternate" hreflang="es" href="../../../posts/peleando-con-configuraciones-en-github-pages-y-jekyll/">
 </head>
 <body>
 
@@ -72,63 +62,43 @@ O descartar l">
 </div>
 </section><section class="section"><div class="container" id="content">
     
-    <h2 class="subtitle is-6">2023-11-26 14:03</h2>
-    <h1 class="title">unix shell</h1>
+
+    <h2 class="subtitle is-6">2024-01-07 17:26</h2>
+    <h1 class="title">Peleando con configuraciones en GitHub Pages y Jekyll</h1>
     <div class="content">
-    <h4>Obtener ayuda de un comando</h4>
-<div class="code"><pre class="code literal-block">man<span class="w"> </span>comando
+    <p>Finalmente me decidí por <a href="../completando-las-configuraciones-de-nikola/">reorganizar el blog</a> y eso derivó en también cambiar la estructura del repositorio de las presentaciones <a href="https://github.com/akielbowicz/presentations">akielbowicz/presentations</a>.</p>
+<p>TL;DR</p>
+<ul>
+<li>Cambiar de 1 branch por charla por una subcarpeta</li>
+<li>Crear un nuevo repositorio para las diapositivas online <a href="https://github.com/akielbowicz/slides">akielbowicz/slides</a>
+</li>
+</ul>
+<div class="code"><pre class="code literal-block"> Conversion error: Jekyll::Converters::Markdown encountered an error while converting 'presentaciones/pyconar_2021/README.md':
+                    The source text contains invalid characters for the used encoding UTF-8
 </pre></div>
 
-<h4>Ejecutar un comando en segundo plano (<strong>background</strong>)</h4>
-<div class="code"><pre class="code literal-block">comando<span class="w"> </span><span class="p">&amp;</span>
+<p><a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites">Troubleshooting jekyll build errors...</a></p>
+<div class="code"><pre class="code literal-block">apt<span class="w"> </span>install<span class="w"> </span>autoconf<span class="w"> </span>patch<span class="w"> </span>build-essential<span class="w"> </span>rustc<span class="w"> </span>libssl-dev<span class="w"> </span>libyaml-dev<span class="w"> </span>libreadline6-dev<span class="w"> </span>zlib1g-dev<span class="w"> </span>libgmp-dev<span class="w"> </span>libncurses5-dev<span class="w"> </span>libffi-dev<span class="w"> </span>libgdbm6<span class="w"> </span>libgdbm-dev<span class="w"> </span>libdb-dev<span class="w"> </span>uuid-dev
 </pre></div>
 
-<p>Además, no mostrar la salida, enviandola a un archivo</p>
-<div class="code"><pre class="code literal-block">comando<span class="w"> </span><span class="p">&amp;</span>&gt;/algun/archivo<span class="w"> </span><span class="p">&amp;</span>
-</pre></div>
-
-<p>O descartar la salida</p>
-<div class="code"><pre class="code literal-block">comando<span class="w"> </span><span class="p">&amp;</span>&gt;/dev/null<span class="w"> </span><span class="p">&amp;</span>
-</pre></div>
-
-<h4>Regresar un proceso secundario a principal</h4>
-<div class="code"><pre class="code literal-block"><span class="nb">fg</span><span class="w"> </span>&lt;id&gt;
-</pre></div>
-
-<p>El <code>id</code> se puede ver con</p>
-<div class="code"><pre class="code literal-block"><span class="nb">jobs</span>
-</pre></div>
-
-<h4>Agregar un usuario</h4>
-<div class="code"><pre class="code literal-block">sudo<span class="w"> </span>adduser<span class="w"> </span>&lt;nuevo_usuario&gt;
-</pre></div>
-
-<p>Con permisos de administrador</p>
-<div class="code"><pre class="code literal-block">sudo<span class="w"> </span>adduser<span class="w"> </span>&lt;nuevo_usuario&gt;<span class="w"> </span>sudo
-</pre></div>
-
-<h5>Cambiar de usuario</h5>
-<div class="code"><pre class="code literal-block">su<span class="w"> </span>--<span class="w"> </span>&lt;otro_usuario&gt;
-</pre></div>
-
-<h5>Agregar permisos de administrador a usuario</h5>
-<div class="code"><pre class="code literal-block">sudo<span class="w"> </span>usermod<span class="w"> </span>-a<span class="w"> </span>-G<span class="w"> </span>sudo<span class="w"> </span>&lt;usuario&gt;
-</pre></div>
-
-<h5>Cambiar la contraseña de un usuario</h5>
-<div class="code"><pre class="code literal-block">sudo<span class="w"> </span>passwd<span class="w"> </span>&lt;usuario&gt;
-</pre></div>
+<p><code>git clone https://github.com/rbenv/rbenv.git ~/.rbenv</code></p>
+<p><a href="https://github.com/rbenv/ruby-build#clone-as-rbenv-plugin-using-git"></a>
+<code>git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-build</code></p>
+<p><a href="https://jekyllrb.com/docs/"></a></p>
+<p><a href="https://talk.jekyllrb.com/t/error-when-executing-bundle-install/8822"></a></p>
+<p><code>We’ve detected the file encoding as ISO-8859-1. When you commit changes we will transcode it to UTF-8.</code></p>
     </div>
     </div>
-</section><section class="section comments hidden-print"><h2>Comments</h2>
+</section><section class="section comments hidden-print"><div class="container">
+        <h2>Comments</h2>
         
     
         <div id="disqus_thread"></div>
         <script>
         var disqus_shortname ="sashakile",
-            disqus_url="https://sashakile.github.io/en/cli/unix-shell/",
-        disqus_title="unix shell",
-        disqus_identifier="cache/pages/cli/unix-shell.html",
+            disqus_url="https://sashakile.github.io/en/posts/peleando-con-configuraciones-en-github-pages-y-jekyll/",
+        disqus_title="Peleando con configuraciones en GitHub Pages y Jekyll",
+        disqus_identifier="cache/posts/peleando-con-configuraciones-en-github-pages-y-jekyll.html",
         disqus_config = function () {
             this.language = "en";
         };
@@ -142,6 +112,7 @@ O descartar l">
     <a href="https://disqus.com" class="dsq-brlink" rel="nofollow">Comments powered by <span class="logo-disqus">Disqus</span></a>
 
 
+        </div>
         </section><script>var disqus_shortname="sashakile";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><section class="section"><div class="container has-text-centered">
             <p>Contents © 2024         <a href="mailto:saxa.kile@gmail.com">sasha kile</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         </p>
             

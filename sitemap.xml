@@ -7,11 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://sashakile.github.io/</loc>
-  <lastmod>2023-12-31T19:09:00Z</lastmod>
+  <lastmod>2024-01-07T20:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/2020/</loc>
   <lastmod>2023-12-31T18:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/2024/</loc>
+  <lastmod>2024-01-07T20:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/2prog/</loc>
@@ -23,7 +27,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/archive.html</loc>
-  <lastmod>2023-12-31T19:25:00Z</lastmod>
+  <lastmod>2024-01-07T20:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/binder/</loc>
@@ -67,11 +71,15 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/</loc>
-  <lastmod>2023-12-31T19:09:00Z</lastmod>
+  <lastmod>2024-01-07T20:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/2020/</loc>
   <lastmod>2023-12-31T18:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/en/2024/</loc>
+  <lastmod>2024-01-07T20:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/alt-doc/</loc>
@@ -79,7 +87,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/archive.html</loc>
-  <lastmod>2023-12-31T19:25:00Z</lastmod>
+  <lastmod>2024-01-07T20:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/blog/</loc>
@@ -141,6 +149,11 @@
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/hola-mundo/" />
  </url>
  <url>
+  <loc>https://sashakile.github.io/en/posts/peleando-con-configuraciones-en-github-pages-y-jekyll/</loc>
+  <lastmod>2024-01-07T20:34:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/peleando-con-configuraciones-en-github-pages-y-jekyll/" />
+ </url>
+ <url>
   <loc>https://sashakile.github.io/en/quiero_empezar_a_programar/</loc>
   <lastmod>2023-12-31T18:44:00Z</lastmod>
  </url>
@@ -174,7 +187,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/listings/hello.py.html</loc>
-  <lastmod>2023-12-31T19:25:00Z</lastmod>
+  <lastmod>2024-01-07T20:22:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/pluto/</loc>
@@ -191,6 +204,10 @@
  <url>
   <loc>https://sashakile.github.io/posts/hola-mundo/</loc>
   <lastmod>2023-12-31T18:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/posts/peleando-con-configuraciones-en-github-pages-y-jekyll/</loc>
+  <lastmod>2024-01-07T20:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/previaPyConAr2020/</loc>
