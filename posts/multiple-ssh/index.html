@@ -2,21 +2,30 @@
 <html prefix="        og: http://ogp.me/ns# article: http://ogp.me/ns/article#     " vocab="http://ogp.me/ns" lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="description" content="Un lugar para volcar las cosas que me intresan y pasan por mi cabeza">
 <meta name="viewport" content="width=device-width">
-<title>In not like Sasha</title>
-<link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<title>Configurar multiples usuarios de git con ssh | In not like Sasha</title>
+<link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS (es)" hreflang="es" href="../rss.xml">
-<link rel="alternate" type="application/rss+xml" title="RSS (en)" hreflang="en" href="../en/rss.xml">
-<link rel="canonical" href="https://sashakile.github.io/blog/">
-<link rel="icon" href="../sx.ico" sizes="16x16">
-<!--[if lt IE 9]><script src="../assets/js/html5shiv-printshiv.min.js"></script><![endif]--><link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="../assets/css/style.css">
+<link rel="alternate" type="application/rss+xml" title="RSS (es)" hreflang="es" href="../../rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS (en)" hreflang="en" href="../../en/rss.xml">
+<link rel="canonical" href="https://sashakile.github.io/posts/multiple-ssh/">
+<link rel="icon" href="../../sx.ico" sizes="16x16">
+<!--[if lt IE 9]><script src="../../assets/js/html5shiv-printshiv.min.js"></script><![endif]--><link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="../../assets/css/style.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+<meta name="author" content="sasha kile">
+<link rel="prev" href="../peleando-con-configuraciones-en-github-pages-y-jekyll/" title="Peleando con configuraciones en GitHub Pages y Jekyll" type="text/html">
+<meta property="og:site_name" content="In not like Sasha">
+<meta property="og:title" content="Configurar multiples usuarios de git con ssh">
+<meta property="og:url" content="https://sashakile.github.io/posts/multiple-ssh/">
+<meta property="og:description" content="Un problema con el que me encontre es tener distintos repositorios privados que necesitan autenticarse con distintas cuentas para poder pushear.
+Una primera opción fue intentar usar el github cli (gh)">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-04-21T12:21:09-03:00">
+<link rel="alternate" hreflang="en" href="../../en/posts/multiple-ssh/">
 </head>
 <body>
 
@@ -25,22 +34,22 @@
         <a class="nav-item" href="https://sashakile.github.io/"><h1 class="title is-4">In not like Sasha</h1></a>
       </div>
       <div class="nav-right">
-        <nav class="nav-item level is-mobile"><a class="level-item" href="../">
+        <nav class="nav-item level is-mobile"><a class="level-item" href="../../">
             <span class="icon">
               <i class="fa fa-home"></i>
             </span>
           </a>
-          <a class="level-item" href="../herramientas">
+          <a class="level-item" href="../../herramientas">
             <span class="icon">
               <i class="fa fa-wrench"></i>
             </span>
           </a>
-          <a class="level-item" href="../alt-doc">
+          <a class="level-item" href="../../alt-doc">
             <span class="icon">
               <i class="fa fa-book"></i>
             </span>
           </a>
-          <a class="level-item" href="../blog">
+          <a class="level-item" href="../../blog">
             <span class="icon">
               <i class="fa fa-newspaper-o"></i>
             </span>
@@ -55,7 +64,7 @@
               <i class="fa fa-github"></i>
             </span>
           </a>
-          <a class="level-item" href="../en">
+          <a class="level-item" href="../../en">
             <span class="icon">
               <i class="fa fa-language"></i>
             </span>
@@ -67,11 +76,9 @@
 </section><section class="section"><div class="container" id="content">
     
 
-    
-
-    <article><h2 class="subtitle is-6">2024-04-21 12:21</h2>
-      <h1 class="title"><a href="../posts/multiple-ssh/">Configurar multiples usuarios de git con ssh</a></h1>
-      <div class="content">
+    <h2 class="subtitle is-6">2024-04-21 12:21</h2>
+    <h1 class="title">Configurar multiples usuarios de git con ssh</h1>
+    <div class="content">
     <p>Un problema con el que me encontre es tener distintos repositorios privados que necesitan autenticarse con distintas cuentas para poder pushear.</p>
 <p>Una primera opción fue intentar usar el github cli (<code>gh</code>) pero requeria reautenticarse constantemente.</p>
 <p>La alternativa fue clonar los distintos repositorios por ssh y configurar distintos hosts para cada autenticación.</p>
@@ -102,49 +109,37 @@
 
 <div class="code"><pre class="code literal-block"><span class="n">git</span> <span class="n">remote</span> <span class="nb">set-url</span> <span class="n">origin</span> <span class="n">git</span><span class="nv">@acc2</span><span class="p">:</span><span class="n">SomeOtherUser</span><span class="p">/</span><span class="n">other-repo</span><span class="p">.</span><span class="n">git</span>
 </pre></div>
-      </div>
-    </article><article><h2 class="subtitle is-6">2024-01-07 17:26</h2>
-      <h1 class="title"><a href="../posts/peleando-con-configuraciones-en-github-pages-y-jekyll/">Peleando con configuraciones en GitHub Pages y Jekyll</a></h1>
-      <div class="content">
-    <p>Finalmente me decidí por <a href="../posts/completando-las-configuraciones-de-nikola/">reorganizar el blog</a> y eso derivó en también cambiar la estructura del repositorio de las presentaciones <a href="https://github.com/akielbowicz/presentations">akielbowicz/presentations</a>.</p>
-<p>TL;DR</p>
-<ul>
-<li>Cambiar de 1 branch por charla por una subcarpeta</li>
-<li>Crear un nuevo repositorio para las diapositivas online <a href="https://github.com/akielbowicz/slides">akielbowicz/slides</a>
-</li>
-</ul>
-<div class="code"><pre class="code literal-block"> Conversion error: Jekyll::Converters::Markdown encountered an error while converting 'presentaciones/pyconar_2021/README.md':
-                    The source text contains invalid characters for the used encoding UTF-8
-</pre></div>
-
-<p><a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites">Troubleshooting jekyll build errors...</a></p>
-<div class="code"><pre class="code literal-block">apt<span class="w"> </span>install<span class="w"> </span>autoconf<span class="w"> </span>patch<span class="w"> </span>build-essential<span class="w"> </span>rustc<span class="w"> </span>libssl-dev<span class="w"> </span>libyaml-dev<span class="w"> </span>libreadline6-dev<span class="w"> </span>zlib1g-dev<span class="w"> </span>libgmp-dev<span class="w"> </span>libncurses5-dev<span class="w"> </span>libffi-dev<span class="w"> </span>libgdbm6<span class="w"> </span>libgdbm-dev<span class="w"> </span>libdb-dev<span class="w"> </span>uuid-dev
-</pre></div>
-
-<p><code>git clone https://github.com/rbenv/rbenv.git ~/.rbenv</code></p>
-<p><a href="https://github.com/rbenv/ruby-build#clone-as-rbenv-plugin-using-git"></a>
-<code>git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-build</code></p>
-<p><a href="https://jekyllrb.com/docs/"></a></p>
-<p><a href="https://talk.jekyllrb.com/t/error-when-executing-bundle-install/8822"></a></p>
-<p><code>We’ve detected the file encoding as ISO-8859-1. When you commit changes we will transcode it to UTF-8.</code></p>
-      </div>
-    </article><article><h2 class="subtitle is-6">2020-03-24 22:44</h2>
-      <h1 class="title"><a href="../posts/completando-las-configuraciones-de-nikola/">Completando las configuraciones de Nikola</a></h1>
-      <div class="content">
+    </div>
+    </div>
+</section><section class="section comments hidden-print"><div class="container">
+        <h2>Comentarios</h2>
+        
     
-      </div>
-    </article><article><h2 class="subtitle is-6">2020-03-21 18:34</h2>
-      <h1 class="title"><a href="../posts/hola-mundo/">Hola mundo!</a></h1>
-      <div class="content">
-    <p>Esta es la primera publicación que hago en el blog utilizando Nikola. La estoy haciendo desde el celular en el cual tengo instalado UserLand y cree una imagen de debian.</p>
-      </div>
-    </article>
-</div>
-</section><section class="section"><div class="container has-text-centered">
+        <div id="disqus_thread"></div>
+        <script>
+        var disqus_shortname ="sashakile",
+            disqus_url="https://sashakile.github.io/posts/multiple-ssh/",
+        disqus_title="Configurar multiples usuarios de git con ssh",
+        disqus_identifier="cache/posts/multiple-ssh.html",
+        disqus_config = function () {
+            this.language = "es_ES";
+        };
+        (function() {
+            var dsq = document.createElement('script'); dsq.async = true;
+            dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script><noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a>
+</noscript>
+    <a href="https://disqus.com" class="dsq-brlink" rel="nofollow">Comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+        </div>
+        </section><script>var disqus_shortname="sashakile";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><section class="section"><div class="container has-text-centered">
             <p>Contents © 2024         <a href="mailto:saxa.kile@gmail.com">sasha kile</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         </p>
             
   </div>
-</section><script src="../assets/js/all-nocdn.js"></script><script>
+</section><script src="../../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
         captions: function(element) {
