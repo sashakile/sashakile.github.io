@@ -1,5 +1,5 @@
 <!--
-.. title: Bienvenidε
+.. title: Welcomε
 .. slug: index
 .. date: 2023-10-29 18:24:54 UTC-03:00
 .. tags: 
@@ -9,6 +9,6 @@
 .. type: text
 -->
 
-- [presentaciones](http://charlas.saxa.xyz)
+- [presentations](http://charlas.saxa.xyz)
 - [slides](http://slides.saxa.xyz)
-- [tesis](https://github.com/akielbowicz/randomWalk-matlab)
+- [thesis](https://github.com/akielbowicz/randomWalk-matlab)
