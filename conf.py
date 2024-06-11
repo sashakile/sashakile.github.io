@@ -151,9 +151,11 @@ NAVIGATION_LINKS = {
 
     "en": (
         ("/en", "fa fa-home"),
-        ("/en/tools", "fa fa-terminal"),
+        # ("/en/tools", "fa fa-terminal"),
+        ("/en/tools", "fa fa-wrench"),
         ("http:///linkedin.com/in/augusto-kiel/?locale=en_US", "fa fa-linkedin"),
         ("http://github.com/akielbowicz", "fa fa-github"),
+        ("/", "fa fa-language")
     ),
 }
 
