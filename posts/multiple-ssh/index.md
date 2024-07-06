@@ -1,4 +1,3 @@
-<!--
 .. title: Configurar multiples usuarios de git con ssh
 .. slug: multiple-ssh
 .. date: 2024-04-21 12:21:09 UTC-03:00
@@ -7,7 +6,6 @@
 .. link: 
 .. description: 
 .. type: text
--->
 
 Un problema con el que me encontre es tener distintos repositorios privados que necesitan autenticarse con distintas cuentas para poder pushear.
 

@@ -1,13 +1,12 @@
-<!--
 .. title: unix shell
 .. slug: unix-shell
 .. date: 2023-11-26 14:03:28 UTC-03:00
-.. tags: cli, unix
-.. category: 
+.. tags: cli unix
+.. category: cli 
 .. link: 
 .. description: 
 .. type: text
--->
+
 
 ### Obtener ayuda de un comando
 

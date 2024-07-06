@@ -1,4 +1,3 @@
-<!--
 .. title: Welcomε
 .. slug: index
 .. date: 2023-10-29 18:24:54 UTC-03:00
@@ -7,7 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
--->
+
 
 I'm curious person that enjoys using computer systems to solve problems.
 

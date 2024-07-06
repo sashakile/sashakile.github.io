@@ -1,3 +1,12 @@
+.. title: Quiero empezar a programar
+.. slug: empezar-a-programar
+.. date: 2023-10-29 18:24:54 UTC-03:00
+.. tags: intro programar aprender
+.. category: docs
+.. link: 
+.. description: 
+.. type: text
+
 # Bienvenide
 
 En las últimas semanas, volviendo a la facultad y en otros eventos terminé conversando sobre mi experiencia de aprender a programar y quiero compartir los recursos que utilicé, y utilizo, para aprender.

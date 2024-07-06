@@ -1,13 +1,12 @@
-<!--
 .. title: python
 .. slug: python
 .. date: 2023-10-29 14:07:04 UTC-03:00
-.. tags: cli
+.. tags: cli python
 .. category: cli 
 .. link: 
 .. description: 
 .. type: text
--->
+
 
 ### Obtener ayuda
 

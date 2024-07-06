@@ -1,13 +1,12 @@
-<!--
 .. title: Peleando con configuraciones en GitHub Pages y Jekyll
 .. slug: peleando-con-configuraciones-en-github-pages-y-jekyll
 .. date: 2024-01-07 17:26:30 UTC-03:00
-.. tags: 
+.. tags: gh-pages jekyll
 .. category: 
 .. link: 
 .. description: 
 .. type: text
--->
+
 
 Finalmente me decidí por [reorganizar el blog](link://slug/completando-las-configuraciones-de-nikola) y eso derivó en también cambiar la estructura del repositorio de las presentaciones [akielbowicz/presentations](https://github.com/akielbowicz/presentations).
 
