@@ -13,6 +13,8 @@
 
 [Herramientas graficas](link://slug/herramientas-graficas)
 
+[Herramientas online](link://slug/herramientas-online)
+
 ## Machetes/Pollas/Chuletas[^](https://dictionary.cambridge.org/dictionary/english-spanish/cheat-sheet)
 
 [Dotnet](link://slug/dotnet)
