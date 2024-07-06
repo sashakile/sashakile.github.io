@@ -1,4 +1,3 @@
-<!--
 .. title: dotnet
 .. slug: dotnet
 .. date: 2023-10-29 14:07:04 UTC-03:00
@@ -7,7 +6,6 @@
 .. link: 
 .. description: 
 .. type: text
--->
 
 
 ```bash

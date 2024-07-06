@@ -1,13 +1,12 @@
-<!--
 .. title: alt-doc
 .. slug: alt-doc
 .. date: 2023-10-29 17:18:15 UTC-03:00
 .. tags: alt-doc
-.. category: 
+.. category: docs 
 .. link: 
 .. description: 
 .. type: text
--->
+
 
 `alt-doc` es mí documentación *alternativa*, alternativa a la documentación oficial de un paquete, librería, programa, etc.
 

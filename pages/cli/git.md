@@ -1,5 +1,3 @@
-
-<!--
 .. title: git
 .. slug: git
 .. date: 2023-10-29 14:07:04 UTC-03:00
@@ -8,7 +6,7 @@
 .. link: 
 .. description: 
 .. type: text
--->
+
 
 ### Clonar un repositorio
 

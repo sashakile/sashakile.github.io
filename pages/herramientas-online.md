@@ -1,13 +1,12 @@
-<!--
 .. title: herramientas online
 .. slug: herramientas-online
 .. date: 2023-10-29 14:07:04 UTC-03:00
-.. tags: 
-.. category: 
+.. tags: herramientas
+.. category: tools
 .. link: 
 .. description: 
 .. type: text
--->
+
 
 Para transformar documentos online [Zamzar](https://www.zamzar.com/)
 
