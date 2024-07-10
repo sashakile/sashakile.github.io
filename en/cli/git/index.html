@@ -14,6 +14,7 @@
 <!--[if lt IE 9]><script src="../../../../assets/js/html5shiv-printshiv.min.js"></script><![endif]--><link href="../../../assets/css/rst.css" rel="stylesheet" type="text/css">
 <link href="../../../assets/css/code.css" rel="stylesheet" type="text/css">
 <link href="../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/custom.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="../../../assets/css/style.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 <meta name="author" content="sasha kile">
@@ -43,7 +44,7 @@ git fetch --all --pru">
 
 <section class="section"><div class="container">
     <nav class="nav"><div class="nav-left">
-        <a class="nav-item" href="https://sashakile.github.io/"><h1 class="title is-4">In not like Sasha</h1></a>
+        <a class="nav-item" href="https://sashakile.github.io/"><h1 class="title is-4" id="in-not-like-sasha">In not like Sasha<a href="#in-not-like-sasha" class="headerlink" title="Permalink to this heading">¶</a></h1></a>
       </div>
       <div class="nav-right">
         <nav class="nav-item level is-mobile"><a class="level-item" href="../../../en">
@@ -77,56 +78,56 @@ git fetch --all --pru">
 </div>
 </section><section class="section"><div class="container" id="content">
     
-    <h2 class="subtitle is-6">2023-10-29 14:07</h2>
-    <h1 class="title">git</h1>
+    <h2 class="subtitle is-6">2023-10-29 14:07<a href="#content" class="headerlink" title="Permalink to this heading">¶</a></h2>
+    <h1 class="title">git<a href="#content" class="headerlink" title="Permalink to this heading">¶</a></h1>
     <div class="content">
-    <h4>Clonar un repositorio</h4>
+    <h4 id="clonar-un-repositorio">Clonar un repositorio<a href="#clonar-un-repositorio" class="headerlink" title="Permalink to this heading">¶</a></h4>
 <div class="code"><pre class="code literal-block">git<span class="w"> </span>clone<span class="w"> </span>url_repositorio
 </pre></div>
 
-<h4>Crear una nueva <em>branch</em>
-</h4>
+<h4 id="crear-una-nueva-branch">Crear una nueva <em>branch</em>
+<a href="#crear-una-nueva-branch" class="headerlink" title="Permalink to this heading">¶</a></h4>
 <div class="code"><pre class="code literal-block">git<span class="w"> </span>switch<span class="w"> </span>--create<span class="w"> </span>nueva_brach
 </pre></div>
 
-<h4>Cambiar de <em>branch</em>
-</h4>
+<h4 id="cambiar-de-branch">Cambiar de <em>branch</em>
+<a href="#cambiar-de-branch" class="headerlink" title="Permalink to this heading">¶</a></h4>
 <div class="code"><pre class="code literal-block">git<span class="w"> </span>switch<span class="w"> </span>otra_branch
 </pre></div>
 
-<h4>Actualizar repositorio local</h4>
+<h4 id="actualizar-repositorio-local">Actualizar repositorio local<a href="#actualizar-repositorio-local" class="headerlink" title="Permalink to this heading">¶</a></h4>
 <div class="code"><pre class="code literal-block">git<span class="w"> </span>fetch<span class="w"> </span>--all<span class="w"> </span>--prune
 </pre></div>
 
-<h4>
+<h4 id="mergear-una-branch">
 <em>Mergear</em> una <em>branch</em>
-</h4>
+<a href="#mergear-una-branch" class="headerlink" title="Permalink to this heading">¶</a></h4>
 <div class="code"><pre class="code literal-block">git<span class="w"> </span>merge<span class="w"> </span>repo/branch
 </pre></div>
 
-<h5>Actualizar <em>branch</em> actual con último <em>master|main</em>
-</h5>
+<h5 id="actualizar-branch-actual-con-ultimo-mastermain">Actualizar <em>branch</em> actual con último <em>master|main</em>
+<a href="#actualizar-branch-actual-con-ultimo-mastermain" class="headerlink" title="Permalink to this heading">¶</a></h5>
 <div class="code"><pre class="code literal-block">git<span class="w"> </span>fetch<span class="w"> </span>--all<span class="w"> </span>--prune<span class="p">;</span><span class="w"> </span>git<span class="w"> </span>merge<span class="w"> </span>origin/master
 </pre></div>
 
-<h4>Crear otro árbol de trabajo <em>worktree</em>
-</h4>
+<h4 id="crear-otro-arbol-de-trabajo-worktree">Crear otro árbol de trabajo <em>worktree</em>
+<a href="#crear-otro-arbol-de-trabajo-worktree" class="headerlink" title="Permalink to this heading">¶</a></h4>
 <div class="code"><pre class="code literal-block">git<span class="w"> </span>worktree<span class="w"> </span>add<span class="w"> </span>-b<span class="w"> </span>nueva_branch<span class="w"> </span>commit<span class="w"> </span>../path
 </pre></div>
 
-<h4>Listar <em>worktrees</em>
-</h4>
+<h4 id="listar-worktrees">Listar <em>worktrees</em>
+<a href="#listar-worktrees" class="headerlink" title="Permalink to this heading">¶</a></h4>
 <div class="code"><pre class="code literal-block">git<span class="w"> </span>worktree<span class="w"> </span>list
 </pre></div>
 
-<h3>Materiales extras</h3>
+<h3 id="materiales-extras">Materiales extras<a href="#materiales-extras" class="headerlink" title="Permalink to this heading">¶</a></h3>
 <p>Julia Evans <a href="https://jvns.ca/blog/2024/04/25/new-zine--how-git-works-/">How Git Works!</a> <a href="https://jvns.ca/blog/2024/02/16/popular-git-config-options/">Popular git config options</a></p>
 <p>Nina Zakharenko <a href="https://github.com/nnja/advanced-git/blob/master/presentation/slides.pdf">Advanced Git In-Depth</a></p>
 <p>Mark Dominus <a href="https://blog.plover.com/2022/06/29/">Things I wish everyone knew about Git</a></p>
 <p>John Wiegley <a href="https://jwiegley.github.io/git-from-the-bottom-up/">Git from the Bottom Up</a></p>
     </div>
     </div>
-</section><section class="section comments hidden-print"><h2>Comments</h2>
+</section><section class="section comments hidden-print"><h2 id="comments">Comments<a href="#comments" class="headerlink" title="Permalink to this heading">¶</a></h2>
         
     
         <div id="disqus_thread"></div>
