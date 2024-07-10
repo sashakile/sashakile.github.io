@@ -697,12 +697,12 @@ GITHUB_COMMIT_SOURCE = True
 # Many filters are shipped with Nikola. A list is available in the manual:
 # <https://getnikola.com/handbook.html#post-processing-filters>
 #
-# from nikola import filters
-# FILTERS = {
-#    ".html": [filters.typogrify],
-#    ".js": [filters.closure_compiler],
+from nikola import filters
+FILTERS = {
+   ".html": [filters.add_header_permalinks],
+#    ".js": [filters.add_header_permalinks],
 #    ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
-# }
+}
 
 # Executable for the "yui_compressor" filter (defaults to 'yui-compressor').
 # YUI_COMPRESSOR_EXECUTABLE = 'yui-compressor'
@@ -727,7 +727,7 @@ GITHUB_COMMIT_SOURCE = True
 # "e-content entry-content" as a class for post and page contents.
 # HEADER_PERMALINKS_XPATH_LIST = ['*//div[@class="e-content entry-content"]//{hx}']
 # Include *every* header (not recommended):
-# HEADER_PERMALINKS_XPATH_LIST = ['*//{hx}']
+HEADER_PERMALINKS_XPATH_LIST = ['*//{hx}']
 
 # File blacklist for header permalinks. Contains output path
 # (eg. 'output/index.html')
