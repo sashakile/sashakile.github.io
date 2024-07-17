@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>In not like Sasha</title><link>https://sashakile.github.io/</link><description>Un lugar para volcar las cosas que me intresan y pasan por mi cabeza</description><atom:link href="https://sashakile.github.io/en/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:saxa.kile@gmail.com"&gt;sasha kile&lt;/a&gt; </copyright><lastBuildDate>Wed, 10 Jul 2024 00:11:42 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Configurar multiples usuarios de git con ssh</title><link>https://sashakile.github.io/en/posts/multiple-ssh/</link><dc:creator>sasha kile</dc:creator><description>&lt;p&gt;Un problema con el que me encontre es tener distintos repositorios privados que necesitan autenticarse con distintas cuentas para poder pushear.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>In not like Sasha</title><link>https://sashakile.github.io/</link><description>Un lugar para volcar las cosas que me intresan y pasan por mi cabeza</description><atom:link href="https://sashakile.github.io/en/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:saxa.kile@gmail.com"&gt;sasha kile&lt;/a&gt; </copyright><lastBuildDate>Wed, 17 Jul 2024 04:03:45 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Configuraciones y Disposición del Teclado</title><link>https://sashakile.github.io/en/posts/configuraciones-del-teclado/</link><dc:creator>sasha kile</dc:creator><description>&lt;h2&gt;&lt;a href="https://configure.zsa.io/moonlander/layouts/ENV3G/latest"&gt;&lt;em&gt;Layout&lt;/em&gt; del teclado Ergodox Moonlander&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;El layout está inspirado en los modos de &lt;code&gt;VIM&lt;/code&gt; con bastantes modificaciones y tiene un foco en evitar movimientos
+fuera de las tres filas principales aprovechando los &lt;em&gt;thumb keys&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Los &lt;em&gt;layers&lt;/em&gt; sobrescriben los valores configurados en el &lt;em&gt;Layer 0&lt;/em&gt;. Y en todos los &lt;em&gt;layers&lt;/em&gt; el &lt;em&gt;thumb key&lt;/em&gt; superior 
+regresa al &lt;em&gt;Layer 0&lt;/em&gt;, similar a &lt;code&gt;Esc&lt;/code&gt; en &lt;code&gt;VIM&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Los &lt;em&gt;thumb keys&lt;/em&gt; están dispuestos de manera que las teclas de uso más frecuente en el &lt;em&gt;layer&lt;/em&gt; al que dirigen están
+en la mano contraria. &lt;/p&gt;
+&lt;h3&gt;Capa 0: Base&lt;/h3&gt;
+&lt;p&gt;En los números 1-8 cambio al &lt;em&gt;Layer&lt;/em&gt; correspondiente, lo utilicé como una manera segura de poder cambiar a
+cualquier &lt;em&gt;layer&lt;/em&gt; sin tener que pensar donde estaban las otras configuraciones.&lt;/p&gt;
+&lt;h4&gt;Mano Izquierda&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;ESC&lt;/code&gt;:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Caps Lock&lt;/code&gt; -&amp;gt; &lt;code&gt;Left Ctrl&lt;/code&gt;: &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Shift&lt;/code&gt; -&amp;gt; &lt;em&gt;&lt;a href="https://en.wikipedia.org/wiki/Space-cadet_keyboard"&gt;Space-cadet&lt;/a&gt; Shift&lt;/em&gt;: De las mejores teclas, inserta el &lt;code&gt;(&lt;/code&gt; si lo presionas y sueltas, 
+y funciona como &lt;code&gt;Shift&lt;/code&gt; si lo mantienes apretado.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Left Ctrl: Queda por compatibilidad, hay veces que si estuve trabajando en otras computadoras me cuesta
+no intentar utilizarlo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Back Space: Se accede desde con el meñique, todavía no me termina de convencer pero ya me acostumbré.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;&lt;em&gt;Thumb keys&lt;/em&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Left Alt&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;Símbolos (3)&lt;/strong&gt;: Mayormente lo uso para ingresar al teclado númerico o insertar &lt;em&gt;brakets&lt;/em&gt; &lt;code&gt;[](){}&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Mano Derecha&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;i&lt;/code&gt; -&amp;gt; &lt;strong&gt;A QWERTY&lt;/strong&gt;: Siguiendo el modo &lt;em&gt;Insert&lt;/em&gt; de &lt;code&gt;VIM&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hjkl&lt;/code&gt; -&amp;gt; '←↑↓→': Siguiendo los movimientos en &lt;code&gt;VIM&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Del&lt;/code&gt; al presionar &lt;code&gt;Backspace&lt;/code&gt; al mantener: Siguiendo el comportamiento de esa tecla en el &lt;a href="https://hhkb.io/layout/"&gt;HHKB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;\,./'&lt;/code&gt; siguiendo la disposición del teclado US International &lt;a href="https://en.wikipedia.org/wiki/Keyboard_layout#/"&gt;ANSI&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Shift&lt;/code&gt; -&amp;gt; &lt;em&gt;Space-cadet shift&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;`&lt;/code&gt; -&amp;gt;  siguiendo el &lt;a href="https://hhkb.io/layout/"&gt;HHKB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;&lt;em&gt;Thumb keys&lt;/em&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Enter&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;Windows (5)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;Funcines (6)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;Mouse (4)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Capa 1: QWERTY&lt;/h3&gt;
+&lt;h3&gt;Capa 2: Colemak&lt;/h3&gt;
+&lt;h3&gt;Capa 3: Símbolos&lt;/h3&gt;
+&lt;h3&gt;Capa 4: &lt;em&gt;Mouse&lt;/em&gt;&lt;/h3&gt;
+&lt;h3&gt;Capa 5: &lt;em&gt;Windows&lt;/em&gt;&lt;/h3&gt;
+&lt;h3&gt;Capa 6: &lt;em&gt;Funciones (FN)&lt;/em&gt;&lt;/h3&gt;
+&lt;h3&gt;Capas 7 y 8: Pruebas&lt;/h3&gt;</description><guid>https://sashakile.github.io/en/posts/configuraciones-del-teclado/</guid><pubDate>Wed, 17 Jul 2024 03:10:42 GMT</pubDate></item><item><title>Configurar multiples usuarios de git con ssh</title><link>https://sashakile.github.io/en/posts/multiple-ssh/</link><dc:creator>sasha kile</dc:creator><description>&lt;p&gt;Un problema con el que me encontre es tener distintos repositorios privados que necesitan autenticarse con distintas cuentas para poder pushear.&lt;/p&gt;
 &lt;p&gt;Una primera opción fue intentar usar el github cli (&lt;code&gt;gh&lt;/code&gt;) pero requeria reautenticarse constantemente.&lt;/p&gt;
 &lt;p&gt;La alternativa fue clonar los distintos repositorios por ssh y configurar distintos hosts para cada autenticación.&lt;/p&gt;
 &lt;p&gt;Para definir los distintos hosts con sus alias hay que modificar &lt;code&gt;~/.ssh/config&lt;/code&gt;&lt;/p&gt;

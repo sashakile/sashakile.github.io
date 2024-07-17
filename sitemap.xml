@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://sashakile.github.io/</loc>
-  <lastmod>2024-07-10T00:00:00Z</lastmod>
+  <lastmod>2024-07-10T00:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/2020/</loc>
@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/archive.html</loc>
-  <lastmod>2024-07-10T00:11:00Z</lastmod>
+  <lastmod>2024-07-17T04:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/binder/</loc>
@@ -39,11 +39,19 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/</loc>
-  <lastmod>2024-07-10T00:00:00Z</lastmod>
+  <lastmod>2024-07-17T04:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/categories/configs/</loc>
+  <lastmod>2024-07-17T04:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/gh-pages-jekyll/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/categories/teclado/</loc>
+  <lastmod>2024-07-17T04:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/testing-nikola/</loc>
@@ -79,7 +87,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/</loc>
-  <lastmod>2024-07-10T00:00:00Z</lastmod>
+  <lastmod>2024-07-10T00:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/2020/</loc>
@@ -95,7 +103,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/archive.html</loc>
-  <lastmod>2024-07-10T00:11:00Z</lastmod>
+  <lastmod>2024-07-17T04:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/blog/</loc>
@@ -103,11 +111,19 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/</loc>
-  <lastmod>2024-07-10T00:00:00Z</lastmod>
+  <lastmod>2024-07-17T04:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/en/categories/configs/</loc>
+  <lastmod>2024-07-17T04:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/gh-pages-jekyll/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/en/categories/teclado/</loc>
+  <lastmod>2024-07-17T04:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/testing-nikola/</loc>
@@ -155,6 +171,10 @@
   <lastmod>2024-07-10T00:00:00Z</lastmod>
  </url>
  <url>
+  <loc>https://sashakile.github.io/en/links/</loc>
+  <lastmod>2024-07-10T00:15:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://sashakile.github.io/en/multiple_ssh/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
  </url>
@@ -162,6 +182,11 @@
   <loc>https://sashakile.github.io/en/posts/completando-las-configuraciones-de-nikola/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/completando-las-configuraciones-de-nikola/" />
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/en/posts/configuraciones-del-teclado/</loc>
+  <lastmod>2024-07-17T04:03:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/configuraciones-del-teclado/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/posts/hola-mundo/</loc>
@@ -211,6 +236,10 @@
   <lastmod>2024-07-10T00:00:00Z</lastmod>
  </url>
  <url>
+  <loc>https://sashakile.github.io/links/</loc>
+  <lastmod>2024-07-10T00:15:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://sashakile.github.io/listings/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
  </url>
@@ -235,6 +264,10 @@
   <lastmod>2024-07-10T00:00:00Z</lastmod>
  </url>
  <url>
+  <loc>https://sashakile.github.io/posts/configuraciones-del-teclado/</loc>
+  <lastmod>2024-07-17T04:03:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://sashakile.github.io/posts/hola-mundo/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
  </url>
@@ -253,6 +286,10 @@
  <url>
   <loc>https://sashakile.github.io/setups/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/test/test.html</loc>
+  <lastmod>2024-07-10T00:15:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/vscode/</loc>
