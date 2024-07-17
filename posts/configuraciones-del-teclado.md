@@ -10,7 +10,9 @@
 
 # [*Layout* del teclado Ergodox Moonlander](https://configure.zsa.io/moonlander/layouts/ENV3G/latest)
 
+<div>
 <iframe src="https://configure.zsa.io/moonlander/layouts/ENV3G/latest" title="Moonlander" height="800px" width="100%">
+</div>
 
 El layout está inspirado en los modos de `VIM` con bastantes modificaciones y tiene un foco en evitar movimientos
 fuera de las tres filas principales aprovechando los *thumb keys*.
@@ -44,7 +46,7 @@ no intentar utilizarlo
 
 - `Space`
 - `Left Alt`
-- A **Símbolos (3)**: Mayormente lo uso para ingresar al teclado númerico o insertar *brakets* `[](){}`
+- A **Símbolos (3)**: Mayormente lo uso para ingresar al teclado numérico o insertar *brackets* `[](){}`
 
 
 ### Mano Derecha
@@ -63,16 +65,54 @@ no intentar utilizarlo
 - A **Funcines (6)**
 - A **Mouse (4)**
 
-## Capa 1: QWERTY
+## Capas 1 (QWERTY) y 2 (Colemak): Texto  
 
-## Capa 2: Colemak
+Teclados con layouts estandares
+
+### Mano Derecha
+
+- `Right Alt`: Para insertar letras con tilde `áéíóúñ`. Uso el teclado con US - International
 
 ## Capa 3: Símbolos
 
+### Mano Izquierda
+
+- `!@#$%` la primera fila sigue el estandar de un teclado US 
+- Los brackets tienen sus pares uno sobre el otro 
+- `_` es simétrico de `-` en la mano derecha para no tener que apretar `Shift`
+- `^&~` *todavía no me convence su ubicación, pero tenían que estar en algún lado* 
+
+### Mano Derecha
+
+- Teclado Numérico
+- `=*0` *todavía no men convencen*
+
 ## Capa 4: *Mouse*
+
+### Mano Izquierda
+
+- **Click** y movimientos de la ruedita
+
+### Mano Derecha
+
+- Movimientos siguiendo las direcciones de `hjkl` del `Layer 0`
 
 ## Capa 5: *Windows*
 
+### Mano Izquierda
+
+- Atajos a las 3 primeras ventanas `Win + 1`
+- Combinaciones para mover y organizar ventanas 
+
+### Mano Derecha
+
+- Flechas '←↑↓→'
+
 ## Capa 6: *Funciones (FN)*
+
+### Mano Izquierda
+
+- `F1-F9` replicando el teclado numérico
+- `F10-F12` accesibles con el dedo índice ya que los uso bastante cuando debugueo.
 
 ## Capas 7 y 8: Pruebas
