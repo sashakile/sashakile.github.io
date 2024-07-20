@@ -10,11 +10,11 @@
 
 Constantemente estoy probando nuevas herramientas y mientras las voy explorando casi siempre me encuentro
 con problemas o me trabo, lo cual requiere un ida y vuelta por distintos lugares hasta que entiendo
-que es lo que pasa y encuentro una soluciÛn. Lo que quiero practicar ahora es el proceso de escribir
+que es lo que pasa y encuentro una soluci√≥n. Lo que quiero practicar ahora es el proceso de escribir
 un *log* o registro de todos esos pasos.
 
-Para eso, voy a empezar una serie de *blog posts* con la categorÌa [exploracion]()
+Para eso, voy a empezar una serie de *blog posts* con la categor√≠a [exploracion]()
 donde voy a ir documentando esas exploraciones.
 
-Como primer punto los post van a ir en estilo de *log* con eventos m·s recientes al pricipio,
-asÌ que va a ser algo distinto para leer. 
+Como primer punto los post van a ir en estilo de *log* con eventos m√°s recientes al pricipio,
+as√≠ que va a ser algo distinto para leer. 
