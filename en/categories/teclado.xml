@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>In not like Sasha (Posts about teclado)</title><link>https://sashakile.github.io/</link><description></description><atom:link href="https://sashakile.github.io/en/categories/teclado.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:saxa.kile@gmail.com"&gt;sasha kile&lt;/a&gt; </copyright><lastBuildDate>Wed, 17 Jul 2024 22:40:12 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Configuraciones y Disposición del Teclado</title><link>https://sashakile.github.io/en/posts/configuraciones-del-teclado/</link><dc:creator>sasha kile</dc:creator><description>&lt;h2&gt;&lt;a href="https://configure.zsa.io/moonlander/layouts/ENV3G/latest"&gt;&lt;em&gt;Layout&lt;/em&gt; del teclado Ergodox Moonlander&lt;/a&gt;&lt;/h2&gt;
+<?xml-stylesheet type="text/xsl" href="../../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>In not like Sasha (Posts about teclado)</title><link>https://sashakile.github.io/</link><description></description><atom:link href="https://sashakile.github.io/en/categories/teclado.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:saxa.kile@gmail.com"&gt;sasha kile&lt;/a&gt; </copyright><lastBuildDate>Thu, 25 Jul 2024 12:13:27 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Configuraciones y Disposición del Teclado</title><link>https://sashakile.github.io/en/posts/configuraciones-del-teclado/</link><dc:creator>sasha kile</dc:creator><description>&lt;h2&gt;&lt;a href="https://configure.zsa.io/moonlander/layouts/ENV3G/latest"&gt;&lt;em&gt;Layout&lt;/em&gt; del teclado Ergodox Moonlander&lt;/a&gt;&lt;/h2&gt;
 &lt;div&gt;
 &lt;iframe src="https://configure.zsa.io/moonlander/layouts/ENV3G/latest" title="Moonlander" height="800px" width="100%"&gt;
 &lt;/iframe&gt;&lt;/div&gt;
@@ -7,7 +7,7 @@
 &lt;p&gt;El layout está inspirado en los modos de &lt;code&gt;VIM&lt;/code&gt; con bastantes modificaciones y tiene un foco en evitar movimientos
 fuera de las tres filas principales aprovechando los &lt;em&gt;thumb keys&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Los &lt;em&gt;layers&lt;/em&gt; sobrescriben los valores configurados en el &lt;em&gt;Layer 0&lt;/em&gt;. Y en todos los &lt;em&gt;layers&lt;/em&gt; el &lt;em&gt;thumb key&lt;/em&gt; superior 
-regresa al &lt;em&gt;Layer 0&lt;/em&gt;, similar a &lt;code&gt;Esc&lt;/code&gt; en &lt;code&gt;VIM&lt;/code&gt;.&lt;/p&gt;
+de la mano izquierda regresa al &lt;em&gt;Layer 0&lt;/em&gt;, similar a &lt;code&gt;Esc&lt;/code&gt; en &lt;code&gt;VIM&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Los &lt;em&gt;thumb keys&lt;/em&gt; están dispuestos de manera que las teclas de uso más frecuente en el &lt;em&gt;layer&lt;/em&gt; al que dirigen están
 en la mano contraria. &lt;/p&gt;
 &lt;h3&gt;Capa 0: Base&lt;/h3&gt;
@@ -16,10 +16,10 @@ cualquier &lt;em&gt;layer&lt;/em&gt; sin tener que pensar donde estaban las otra
 &lt;h4&gt;Mano Izquierda&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;ESC&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ESC&lt;/code&gt;: Bien arriba a la izquierda&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;Caps Lock&lt;/code&gt; -&amp;gt; &lt;code&gt;Left Ctrl&lt;/code&gt;: &lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Caps Lock&lt;/code&gt; -&amp;gt; &lt;code&gt;Left Ctrl&lt;/code&gt;: De los cambios más prácticos que encontré hasta ahora.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;code&gt;Shift&lt;/code&gt; -&amp;gt; &lt;em&gt;&lt;a href="https://en.wikipedia.org/wiki/Space-cadet_keyboard"&gt;Space-cadet&lt;/a&gt; Shift&lt;/em&gt;: De las mejores teclas, inserta el &lt;code&gt;(&lt;/code&gt; si lo presionas y sueltas, 
@@ -56,7 +56,7 @@ no intentar utilizarlo&lt;/p&gt;
 &lt;li&gt;A &lt;strong&gt;Mouse (4)&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Capas 1 (QWERTY) y 2 (Colemak): Texto&lt;/h3&gt;
-&lt;p&gt;Teclados con layouts estandares&lt;/p&gt;
+&lt;p&gt;Teclados con layouts estándares&lt;/p&gt;
 &lt;h4&gt;Mano Derecha&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Right Alt&lt;/code&gt;: Para insertar letras con tilde &lt;code&gt;áéíóúñ&lt;/code&gt;. Uso el teclado con US - International&lt;/li&gt;
@@ -72,7 +72,7 @@ no intentar utilizarlo&lt;/p&gt;
 &lt;h4&gt;Mano Derecha&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Teclado Numérico&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;=*0&lt;/code&gt; &lt;em&gt;todavía no men convencen&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;=*0&lt;/code&gt; &lt;em&gt;todavía no me convencen&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Capa 4: &lt;em&gt;Mouse&lt;/em&gt;&lt;/h3&gt;
 &lt;h4&gt;Mano Izquierda&lt;/h4&gt;
@@ -99,4 +99,12 @@ no intentar utilizarlo&lt;/p&gt;
 &lt;li&gt;&lt;code&gt;F1-F9&lt;/code&gt; replicando el teclado numérico&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;F10-F12&lt;/code&gt; accesibles con el dedo índice ya que los uso bastante cuando debugueo.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Capas 7 y 8: Pruebas&lt;/h3&gt;</description><guid>https://sashakile.github.io/en/posts/configuraciones-del-teclado/</guid><pubDate>Wed, 17 Jul 2024 03:10:42 GMT</pubDate></item></channel></rss>
+&lt;h3&gt;Capas 7 y 8: Pruebas&lt;/h3&gt;
+&lt;p&gt;Distintas funcionalidades para ir probando.
+- Recording y replay de macros.
+- Manejo de las luces del teclado.
+- Sensibilidad de las teclas.&lt;/p&gt;
+&lt;h3&gt;Otros comentarios&lt;/h3&gt;
+&lt;p&gt;Tener un teclado en el que la modificación se hace en &lt;em&gt;hardware&lt;/em&gt; realmente hizo la diferencia a comparación de utilizar algún &lt;em&gt;software&lt;/em&gt; para hacerlo.
+Es mucho más estable, por ejemplo en situaciones en que la máquina está utilizando muchos recursos algunos programas tienen micro interrupciones y suelen hacer todo más torpe. Con el teclado configurado por hardware esto nunca pasa.&lt;/p&gt;
+&lt;p&gt;El feature de Auto-Shift lo tuve habilitado un tiempo pero para programar se volvía muy complicado de utilizar porque solía interferir con los &lt;em&gt;auto-complete&lt;/em&gt; o &lt;em&gt;intellisense&lt;/em&gt;. Al menos, porque no programo a una velocidad extrema. &lt;/p&gt;</description><guid>https://sashakile.github.io/en/posts/configuraciones-del-teclado/</guid><pubDate>Wed, 17 Jul 2024 03:10:42 GMT</pubDate></item></channel></rss>

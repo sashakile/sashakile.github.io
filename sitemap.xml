@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/archive.html</loc>
-  <lastmod>2024-07-20T19:45:00Z</lastmod>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/binder/</loc>
@@ -39,11 +39,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/</loc>
-  <lastmod>2024-07-20T21:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/categories/cat_exploraci/</loc>
-  <lastmod>2024-07-20T19:45:00Z</lastmod>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/cat_exploracion/</loc>
@@ -58,12 +54,12 @@
   <lastmod>2024-07-20T19:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://sashakile.github.io/categories/exploracion/</loc>
-  <lastmod>2024-07-20T19:45:00Z</lastmod>
- </url>
- <url>
   <loc>https://sashakile.github.io/categories/gh-pages-jekyll/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/categories/julia/</loc>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/teclado/</loc>
@@ -123,7 +119,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/archive.html</loc>
-  <lastmod>2024-07-20T19:48:00Z</lastmod>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/blog/</loc>
@@ -131,11 +127,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/</loc>
-  <lastmod>2024-07-20T21:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/en/categories/cat_exploraci/</loc>
-  <lastmod>2024-07-20T19:48:00Z</lastmod>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/cat_exploracion/</loc>
@@ -150,12 +142,12 @@
   <lastmod>2024-07-20T19:48:00Z</lastmod>
  </url>
  <url>
-  <loc>https://sashakile.github.io/en/categories/exploracion/</loc>
-  <lastmod>2024-07-20T19:48:00Z</lastmod>
- </url>
- <url>
   <loc>https://sashakile.github.io/en/categories/gh-pages-jekyll/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/en/categories/julia/</loc>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/teclado/</loc>
@@ -250,6 +242,11 @@
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/registro-de-exploraciones/" />
  </url>
  <url>
+  <loc>https://sashakile.github.io/en/posts/videos-juliacon-2024/</loc>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/videos-juliacon-2024/" />
+ </url>
+ <url>
   <loc>https://sashakile.github.io/en/setups/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
  </url>
@@ -328,6 +325,10 @@
  <url>
   <loc>https://sashakile.github.io/posts/registro-de-exploraciones/</loc>
   <lastmod>2024-07-20T19:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/posts/videos-juliacon-2024/</loc>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/previaPyConAr2020/</loc>

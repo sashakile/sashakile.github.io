@@ -11,7 +11,7 @@
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/configs.xml</loc>
-  <lastmod>2024-07-17T22:40:00Z</lastmod>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/emacs.xml</loc>
@@ -22,8 +22,12 @@
   <lastmod>2024-07-10T00:11:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://sashakile.github.io/categories/julia.xml</loc>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://sashakile.github.io/categories/teclado.xml</loc>
-  <lastmod>2024-07-17T22:40:00Z</lastmod>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/testing-nikola.xml</loc>
@@ -39,7 +43,7 @@
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/configs.xml</loc>
-  <lastmod>2024-07-17T22:40:00Z</lastmod>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/emacs.xml</loc>
@@ -50,8 +54,12 @@
   <lastmod>2024-07-10T00:11:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://sashakile.github.io/en/categories/julia.xml</loc>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://sashakile.github.io/en/categories/teclado.xml</loc>
-  <lastmod>2024-07-17T22:40:00Z</lastmod>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/testing-nikola.xml</loc>
@@ -63,14 +71,14 @@
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/rss.xml</loc>
-  <lastmod>2024-07-20T21:20:00Z</lastmod>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/rss.xml</loc>
-  <lastmod>2024-07-20T21:20:00Z</lastmod>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/sitemap.xml</loc>
-  <lastmod>2024-07-20T21:20:00Z</lastmod>
+  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </sitemap>
 </sitemapindex>
