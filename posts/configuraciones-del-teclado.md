@@ -1,6 +1,7 @@
 .. title: Configuraciones y Disposición del Teclado
 .. slug: configuraciones-del-teclado
 .. date: 2024-07-17 00:10:42 UTC-03:00
+.. updated: 2024-07-25 8:58:00 UTC-03:00
 .. tags: configs, teclado 
 .. category: 
 .. link: 
@@ -18,7 +19,7 @@ El layout está inspirado en los modos de `VIM` con bastantes modificaciones y t
 fuera de las tres filas principales aprovechando los *thumb keys*.
 
 Los *layers* sobrescriben los valores configurados en el *Layer 0*. Y en todos los *layers* el *thumb key* superior 
-regresa al *Layer 0*, similar a `Esc` en `VIM`.
+de la mano izquierda regresa al *Layer 0*, similar a `Esc` en `VIM`.
 
 Los *thumb keys* están dispuestos de manera que las teclas de uso más frecuente en el *layer* al que dirigen están
 en la mano contraria. 
@@ -30,9 +31,9 @@ cualquier *layer* sin tener que pensar donde estaban las otras configuraciones.
 
 ### Mano Izquierda
 
-- `ESC`:
+- `ESC`: Bien arriba a la izquierda
 
-- `Caps Lock` -> `Left Ctrl`: 
+- `Caps Lock` -> `Left Ctrl`: De los cambios más prácticos que encontré hasta ahora.
 
 - `Shift` -> *[Space-cadet](https://en.wikipedia.org/wiki/Space-cadet_keyboard) Shift*: De las mejores teclas, inserta el `(` si lo presionas y sueltas, 
 y funciona como `Shift` si lo mantienes apretado.
@@ -67,7 +68,7 @@ no intentar utilizarlo
 
 ## Capas 1 (QWERTY) y 2 (Colemak): Texto  
 
-Teclados con layouts estandares
+Teclados con layouts estándares
 
 ### Mano Derecha
 
@@ -85,7 +86,7 @@ Teclados con layouts estandares
 ### Mano Derecha
 
 - Teclado Numérico
-- `=*0` *todavía no men convencen*
+- `=*0` *todavía no me convencen*
 
 ## Capa 4: *Mouse*
 
@@ -116,3 +117,15 @@ Teclados con layouts estandares
 - `F10-F12` accesibles con el dedo índice ya que los uso bastante cuando debugueo.
 
 ## Capas 7 y 8: Pruebas
+
+Distintas funcionalidades para ir probando.
+- Recording y replay de macros.
+- Manejo de las luces del teclado.
+- Sensibilidad de las teclas.
+
+## Otros comentarios
+
+Tener un teclado en el que la modificación se hace en *hardware* realmente hizo la diferencia a comparación de utilizar algún *software* para hacerlo.
+Es mucho más estable, por ejemplo en situaciones en que la máquina está utilizando muchos recursos algunos programas tienen micro interrupciones y suelen hacer todo más torpe. Con el teclado configurado por hardware esto nunca pasa.
+
+El feature de Auto-Shift lo tuve habilitado un tiempo pero para programar se volvía muy complicado de utilizar porque solía interferir con los *auto-complete* o *intellisense*. Al menos, porque no programo a una velocidad extrema. 
