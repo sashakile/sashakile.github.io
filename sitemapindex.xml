@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://sashakile.github.io/categories/cat_exploracion.xml</loc>
-  <lastmod>2024-07-20T21:20:00Z</lastmod>
+  <lastmod>2024-07-28T22:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/configs.xml</loc>
@@ -39,7 +39,7 @@
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/cat_exploracion.xml</loc>
-  <lastmod>2024-07-20T21:20:00Z</lastmod>
+  <lastmod>2024-07-28T22:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/configs.xml</loc>
@@ -71,14 +71,14 @@
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/rss.xml</loc>
-  <lastmod>2024-07-25T12:13:00Z</lastmod>
+  <lastmod>2024-07-28T23:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/rss.xml</loc>
-  <lastmod>2024-07-25T12:13:00Z</lastmod>
+  <lastmod>2024-07-28T23:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/sitemap.xml</loc>
-  <lastmod>2024-07-28T20:30:00Z</lastmod>
+  <lastmod>2024-07-28T23:30:00Z</lastmod>
  </sitemap>
 </sitemapindex>

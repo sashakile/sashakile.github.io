@@ -18,11 +18,11 @@
 <link rel="stylesheet" href="../../../assets/css/style.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 <meta name="author" content="sasha kile">
-<link rel="prev" href="../exploraciones/tutorial-emacs/" title="Haciendo el tutorial de Emacs" type="text/html">
+<meta name="robots" content="noindex">
 <meta property="og:site_name" content="In not like Sasha">
 <meta property="og:title" content="Un fin de semana con Julia">
 <meta property="og:url" content="https://sashakile.github.io/en/posts/videos-juliacon-2024/">
-<meta property="og:description" content="Nada mejor que">
+<meta property="og:description" content="Terminó JuliaCon 2024 y los streamings en vivo están disponibles para ver en YouTube... El único problema es que son grabacciones de entre 8 y 10 horas, uno por cada sala de la conferencia y de tres d">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2024-07-22T20:44:09-03:00">
 <meta property="article:tag" content="julia">
@@ -70,7 +70,64 @@
     <h2 class="subtitle is-6">2024-07-22 20:44<a href="#content" class="headerlink" title="Permalink to this heading">¶</a></h2>
     <h1 class="title">Un fin de semana con Julia<a href="#content" class="headerlink" title="Permalink to this heading">¶</a></h1>
     <div class="content">
-    <p>Nada mejor que </p>
+    <p>Terminó JuliaCon 2024 y los streamings en vivo están disponibles para ver en YouTube... El único problema es que son grabacciones de entre 8 y 10 horas, uno por cada sala de la conferencia y de tres días distintos.</p>
+<p>Así que encontrar las charlas que me interesaban requería un trabajo extra. Luego de ver dos, noté que entre charla y charla en el video mostraban el cronograma de esa sala para ese día. Y lo primero que me vino a la mente fue: "Perfecto, tengo un problema sencillo de automatización para hacerlo con Julia".</p>
+<p>Y ya que estoy, puedo probar grabar la pantalla y ver como mi computadora se la banca. Hace un tiempo que quiero intentar hacer <em>streaming</em> y esta era una gran oportunidad para empezar a hacerlo.</p>
+<p>Entonces, además de poder encontrar de manera sencilla los videos, el ejercicio tenía los objetivos de:</p>
+<p>1) Hacer un "Test Drive" de Julia con un problema de varios dominios: Procesamiento de texto y <em>Scrapping</em>, Análisis de Imágenes, Interacción con <em>API Rest</em></p>
+<p>2) Animarme a grabar un <em>screen share</em>, poner a prueba el <em>setup</em> de mi computadora para empezar a ver que limitaciones hay y que tengo que aprender.</p>
+<p>El <a href="https://github.com/akielbowicz/arenero/blob/b00ba7e206977c08c92e1ab3b68d94844f352165/juliacon2024-videos/decargar_yt_list.jl">código</a> en su estado natural despues de hacerlo funcionar. </p>
+<p>Como siguiente paso quiero hacer un video <em>refactorizando</em> el código. </p>
+<p>Basta de chachara..., </p>
+<h2 id="encontrar-todos-los-videos">Encontrar todos los videos<a href="#encontrar-todos-los-videos" class="headerlink" title="Permalink to this heading">¶</a></h2>
+<ul><li>
+</li></ul>
+<h2 id="encontrar-los-frames-con-el-cronograma">Encontrar los <em>frames</em> con el cronograma<a href="#encontrar-los-frames-con-el-cronograma" class="headerlink" title="Permalink to this heading">¶</a></h2>
+<ul>
+<li>performance</li>
+<li>pretalx</li>
+</ul>
+<h2 id="conclusiones">Conclusiones<a href="#conclusiones" class="headerlink" title="Permalink to this heading">¶</a></h2>
+<div class="code"><pre class="code literal-block"><span class="gp">julia&gt;</span><span class="w"> </span><span class="n">versioninfo</span><span class="p">()</span>
+<span class="go">Julia Version 1.10.0</span>
+<span class="go">Commit 3120989f39b (2023-12-25 18:01 UTC)</span>
+<span class="go">Build Info:</span>
+<span class="go">  Official https://julialang.org/ release</span>
+<span class="go">Platform Info:</span>
+<span class="go">  OS: Linux (x86_64-linux-gnu)</span>
+<span class="go">  CPU: 4 × Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz</span>
+<span class="go">  WORD_SIZE: 64</span>
+<span class="go">  LIBM: libopenlibm</span>
+<span class="go">  LLVM: libLLVM-15.0.7 (ORCJIT, haswell)</span>
+<span class="go">  Threads: 1 on 4 virtual cores</span>
+</pre></div>
+
+<h3 id="grabar-videos-del-desarrollo-de-un-codigo">Grabar videos del desarrollo de un código<a href="#grabar-videos-del-desarrollo-de-un-codigo" class="headerlink" title="Permalink to this heading">¶</a></h3>
+<h3 id="usar-julia">Usar Julia<a href="#usar-julia" class="headerlink" title="Permalink to this heading">¶</a></h3>
+<ul>
+<li><em>Pluto.jl</em></li>
+<li><em>Time To First Plot</em></li>
+<li>Integración con <em>VSCode</em>
+</li>
+<li>Desarrollo interactivo</li>
+<li>estructurar código con funciones</li>
+<li>interoperabilidad con formatos estandares</li>
+<li>documentación accesible</li>
+<li>facil benchmark</li>
+<li>librerias </li>
+</ul>
+<h3 id="resolver-problemas-con-una-computadora">Resolver problemas con una computadora<a href="#resolver-problemas-con-una-computadora" class="headerlink" title="Permalink to this heading">¶</a></h3>
+<ul>
+<li>Limitaciones</li>
+<li>problemas intermedios</li>
+<li>
+</li>
+</ul>
+<p>Aprovechar las imagenes con el cronograma</p>
+<p>Sacar los timestamps del cronograma de pretalx</p>
+<p>Matchear las imagenes</p>
+<p>Probar como hacer streaming y grabar la pantalla</p>
+<p>encontrar el tiempo inicial</p>
     </div>
     </div>
 </section><section class="section comments hidden-print"><div class="container">
