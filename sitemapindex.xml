@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://sashakile.github.io/categories/cat_exploracion.xml</loc>
-  <lastmod>2024-07-28T22:21:00Z</lastmod>
+  <lastmod>2024-08-14T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/configs.xml</loc>
@@ -15,15 +15,11 @@
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/emacs.xml</loc>
-  <lastmod>2024-07-20T21:20:00Z</lastmod>
+  <lastmod>2024-08-14T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/gh-pages-jekyll.xml</loc>
   <lastmod>2024-07-10T00:11:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sashakile.github.io/categories/julia.xml</loc>
-  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/categories/teclado.xml</loc>
@@ -39,7 +35,7 @@
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/cat_exploracion.xml</loc>
-  <lastmod>2024-07-28T22:21:00Z</lastmod>
+  <lastmod>2024-08-14T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/configs.xml</loc>
@@ -47,15 +43,11 @@
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/emacs.xml</loc>
-  <lastmod>2024-07-20T21:20:00Z</lastmod>
+  <lastmod>2024-08-14T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/gh-pages-jekyll.xml</loc>
   <lastmod>2024-07-10T00:11:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sashakile.github.io/en/categories/julia.xml</loc>
-  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/categories/teclado.xml</loc>
@@ -71,14 +63,14 @@
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/en/rss.xml</loc>
-  <lastmod>2024-07-28T23:30:00Z</lastmod>
+  <lastmod>2024-08-14T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/rss.xml</loc>
-  <lastmod>2024-07-28T23:30:00Z</lastmod>
+  <lastmod>2024-08-14T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sashakile.github.io/sitemap.xml</loc>
-  <lastmod>2024-07-28T23:30:00Z</lastmod>
+  <lastmod>2024-08-14T00:33:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/archive.html</loc>
-  <lastmod>2024-07-28T23:30:00Z</lastmod>
+  <lastmod>2024-08-14T00:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/binder/</loc>
@@ -39,7 +39,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/</loc>
-  <lastmod>2024-07-25T12:03:00Z</lastmod>
+  <lastmod>2024-07-28T23:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/cat_exploracion/</loc>
@@ -56,10 +56,6 @@
  <url>
   <loc>https://sashakile.github.io/categories/gh-pages-jekyll/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/categories/julia/</loc>
-  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/teclado/</loc>
@@ -119,7 +115,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/archive.html</loc>
-  <lastmod>2024-07-28T23:30:00Z</lastmod>
+  <lastmod>2024-08-14T00:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/blog/</loc>
@@ -127,7 +123,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/</loc>
-  <lastmod>2024-07-25T12:03:00Z</lastmod>
+  <lastmod>2024-07-28T23:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/cat_exploracion/</loc>
@@ -144,10 +140,6 @@
  <url>
   <loc>https://sashakile.github.io/en/categories/gh-pages-jekyll/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/en/categories/julia/</loc>
-  <lastmod>2024-07-25T12:03:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/teclado/</loc>
@@ -221,18 +213,12 @@
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/configuraciones-del-teclado/" />
  </url>
  <url>
-  <loc>https://sashakile.github.io/en/posts/exploracion/escribiendo-en-emacs/</loc>
-  <lastmod>2024-07-28T22:21:00Z</lastmod>
- </url>
- <url>
   <loc>https://sashakile.github.io/en/posts/exploraciones/escribiendo-en-emacs/</loc>
   <lastmod>2024-07-28T22:21:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/exploraciones/escribiendo-en-emacs/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/posts/exploraciones/tutorial-emacs/</loc>
   <lastmod>2024-07-20T19:50:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/exploraciones/tutorial-emacs/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/posts/hola-mundo/</loc>
@@ -317,10 +303,6 @@
  <url>
   <loc>https://sashakile.github.io/posts/configuraciones-del-teclado/</loc>
   <lastmod>2024-07-17T04:03:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/posts/exploracion/escribiendo-en-emacs/</loc>
-  <lastmod>2024-07-28T22:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/posts/exploraciones/escribiendo-en-emacs/</loc>
