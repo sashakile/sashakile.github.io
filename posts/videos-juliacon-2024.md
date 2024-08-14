@@ -15,7 +15,6 @@ Así que encontrar las charlas que me interesaban requería un trabajo extra. Lu
 
 Y ya que estoy, puedo probar grabar la pantalla y ver como mi computadora se la banca. Hace un tiempo que quiero intentar hacer *streaming* y esta era una gran oportunidad para empezar a hacerlo.
 
-
 Entonces, además de poder encontrar de manera sencilla los videos, el ejercicio tenía los objetivos de:
 
 1) Hacer un "Test Drive" de Julia con un problema de varios dominios: Procesamiento de texto y *Scrapping*, Análisis de Imágenes, Interacción con *API Rest*
@@ -33,7 +32,7 @@ Basta de chachara...,
 
 # Encontrar todos los videos
 
-- 
+-  
 
 # Encontrar los *frames* con el cronograma
 
@@ -79,7 +78,6 @@ Platform Info:
 
 - Limitaciones
 - problemas intermedios
-- 
 
 
 Aprovechar las imagenes con el cronograma
