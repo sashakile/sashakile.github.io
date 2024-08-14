@@ -156,27 +156,22 @@
  <url>
   <loc>https://sashakile.github.io/en/cli/dotnet/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/cli/dotnet/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/cli/git/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/cli/git/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/cli/powershell/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/cli/powershell/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/cli/python/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/cli/python/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/cli/unix-shell/</loc>
   <lastmod>2024-07-10T00:00:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/cli/unix-shell/" />
  </url>
  <url>
   <loc>https://sashakile.github.io/en/empezar-a-programar/</loc>
@@ -211,14 +206,6 @@
   <loc>https://sashakile.github.io/en/posts/configuraciones-del-teclado/</loc>
   <lastmod>2024-07-17T04:03:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://sashakile.github.io/posts/configuraciones-del-teclado/" />
- </url>
- <url>
-  <loc>https://sashakile.github.io/en/posts/exploraciones/escribiendo-en-emacs/</loc>
-  <lastmod>2024-07-28T22:21:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/en/posts/exploraciones/tutorial-emacs/</loc>
-  <lastmod>2024-07-20T19:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/posts/hola-mundo/</loc>
@@ -303,14 +290,6 @@
  <url>
   <loc>https://sashakile.github.io/posts/configuraciones-del-teclado/</loc>
   <lastmod>2024-07-17T04:03:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/posts/exploraciones/escribiendo-en-emacs/</loc>
-  <lastmod>2024-07-28T22:21:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/posts/exploraciones/tutorial-emacs/</loc>
-  <lastmod>2024-07-20T19:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/posts/hola-mundo/</loc>
