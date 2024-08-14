@@ -14,14 +14,4 @@
 
 [Herramientas online](link://slug/herramientas-online)
 
-## Machetes/Pollas/Chuletas[^](https://dictionary.cambridge.org/dictionary/english-spanish/cheat-sheet)
-
-[Dotnet](link://slug/dotnet)
-
-[Git](link://slug/git)
-
-[Powershell](link://slug/powershell)
-
-[Python](link://slug/python)
-
-[Unix Shell](link://slug/unix-shell)
+[Machetes/Pollas/Chuletas](https://ak.saxa.xyz/borradores/machetes)[^](https://dictionary.cambridge.org/dictionary/english-spanish/cheat-sheet)

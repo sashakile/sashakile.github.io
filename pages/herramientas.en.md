@@ -8,14 +8,4 @@
 .. type: text
 
 
-## Cheet Sheats
-
-[Dotnet](link://slug/dotnet)
-
-[Git](link://slug/git)
-
-[Powershell](link://slug/powershell)
-
-[Python](link://slug/python)
-
-[Unix Shell](link://slug/unix-shell)
+[Cheet Sheats](https://ak.saxa.xyz/borradores/machetes)
