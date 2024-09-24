@@ -12,7 +12,7 @@ To build the site::
 
 To see it::
 
-    nikola serve -b
+   nikola serve -b
 
 To create new post::
 
@@ -24,4 +24,4 @@ To publish to GH Pages::
 
 To check all available commands::
 
-    nikola help
+   nikola help
