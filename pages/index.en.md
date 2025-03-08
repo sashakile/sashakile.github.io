@@ -7,13 +7,11 @@
 .. description: 
 .. type: text
 
-
 I'm curious person that enjoys using computer systems to solve problems.
 
-Through out the years I've changed many times my interest and perspectives on life and the world, but there are some things that I found valuable.
+Through out the years I've changed many times my interest and perspectives on life and the world, but I always retain things that I found valuable.
 
-As a kid I played a few videogames, mainly RPGs like Pokemon or Golden Sun and in them I learned that 
-you can overcome hard challenges by training with simpler challenges until they become trivial. Also played a lot of Megaman X where I learned that there are some tools or abilities that make different challenges so much more easy. So I spend most of my time learning from others how to solve problems and learning about a variety of topics from engineering, science and philosophy. 
+As a kid I played a few video-games, mainly RPGs like *Pokemon* or *Golden Sun* and in them I learned that you can overcome hard challenges by training with simpler challenges until they become trivial. Also played a lot of *Megaman X* where I learned that there are some tools or abilities that make different challenges so much more easy. So I spend most of my time learning from others how to solve problems by stealing (or borrowing) their mental operations. You will usually find me learning about a variety of topics from literature, engineering, science and philosophy. 
 
 I don't have any interest in becoming an expert on any topic but I like to deepen my understanding as I need it.
 
@@ -32,6 +30,5 @@ And that ...
 
 Here are some links for you:
 
-- [presentations](http://talks.saxa.xyz)
-- [slides](http://slides.saxa.xyz)
-- [thesis](https://github.com/akielbowicz/randomWalk-matlab)
+- The [slides](http://slides.saxa.xyz) of the [presentations](http://talks.saxa.xyz) I have given
+- If you want to see some pretty plots of random walks, take a look at my [Master's Thesis](https://github.com/akielbowicz/randomWalk-matlab)
