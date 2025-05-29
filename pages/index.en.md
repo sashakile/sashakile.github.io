@@ -30,5 +30,6 @@ And that ...
 
 Here are some links for you:
 
+- My [CV](https://cv.saxa.xyz)
 - The [slides](http://slides.saxa.xyz) of the [presentations](http://talks.saxa.xyz) I have given
 - If you want to see some pretty plots of random walks, take a look at my [Master's Thesis](https://github.com/akielbowicz/randomWalk-matlab)

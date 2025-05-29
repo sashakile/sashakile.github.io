@@ -32,5 +32,6 @@ Y que ...
 
 Acá les dejo un par de links:
 
+- Mi [CV](https://cv.saxa.xyz)
 - Las [diapositivas](http://slides.saxa.xyz) de las [charlas](http://charlas.saxa.xyz) que dí.
 - Si quieren ver gráficos lindos de caminatas aleatorias pueden ver mi [Tesis de Licenciatura](https://github.com/akielbowicz/randomWalk-matlab)
