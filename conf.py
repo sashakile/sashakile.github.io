@@ -142,7 +142,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "fa fa-home"),
         ("/herramientas", "fa fa-wrench"),
-        ("/alt-doc", "fa fa-book"),
+        ("/alt-docs", "fa fa-book"),
         ("/blog", "fa fa-newspaper-o"),
         ("http:///linkedin.com/in/augusto-kiel", "fa fa-linkedin"),
         ("http://github.com/akielbowicz", "fa fa-github"),
