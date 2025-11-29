@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://sashakile.github.io/</loc>
-  <lastmod>2025-05-29T01:20:00Z</lastmod>
+  <lastmod>2025-11-29T02:45:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://sashakile.github.io/en/" />
  </url>
  <url>
@@ -24,7 +24,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/archive.html</loc>
-  <lastmod>2025-05-29T01:20:00Z</lastmod>
+  <lastmod>2025-11-29T02:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/binder/</loc>
@@ -36,7 +36,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/</loc>
-  <lastmod>2024-11-09T12:50:00Z</lastmod>
+  <lastmod>2025-05-29T01:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/cat_exploracion/</loc>
@@ -44,10 +44,6 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/categories/configs/</loc>
-  <lastmod>2024-11-09T12:50:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/categories/emacs/</loc>
   <lastmod>2024-11-09T12:50:00Z</lastmod>
  </url>
  <url>
@@ -75,6 +71,10 @@
   <lastmod>2024-11-09T12:52:00Z</lastmod>
  </url>
  <url>
+  <loc>https://sashakile.github.io/charla-nadie/</loc>
+  <lastmod>2025-11-29T02:45:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://sashakile.github.io/charla-quarto/</loc>
   <lastmod>2024-11-09T12:50:00Z</lastmod>
  </url>
@@ -100,7 +100,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/archive.html</loc>
-  <lastmod>2025-05-29T01:20:00Z</lastmod>
+  <lastmod>2025-11-29T02:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/blog/</loc>
@@ -108,7 +108,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/</loc>
-  <lastmod>2024-11-09T12:50:00Z</lastmod>
+  <lastmod>2025-05-29T01:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/cat_exploracion/</loc>
@@ -116,10 +116,6 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/en/categories/configs/</loc>
-  <lastmod>2024-11-09T12:50:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sashakile.github.io/en/categories/emacs/</loc>
   <lastmod>2024-11-09T12:50:00Z</lastmod>
  </url>
  <url>
@@ -231,7 +227,7 @@
  </url>
  <url>
   <loc>https://sashakile.github.io/listings/hello.py.html</loc>
-  <lastmod>2025-05-29T01:20:00Z</lastmod>
+  <lastmod>2025-11-29T02:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/man-quarto/</loc>
