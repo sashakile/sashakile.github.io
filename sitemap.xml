@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://sashakile.github.io/</loc>
-  <lastmod>2025-11-29T02:45:00Z</lastmod>
+  <lastmod>2026-11-06T20:37:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://sashakile.github.io/en/" />
  </url>
  <url>
@@ -77,6 +77,10 @@
  <url>
   <loc>https://sashakile.github.io/charla-quarto/</loc>
   <lastmod>2024-11-09T12:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/charla-scia/</loc>
+  <lastmod>2026-11-06T20:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/dataScience/</loc>
