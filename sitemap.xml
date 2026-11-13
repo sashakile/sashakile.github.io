@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://sashakile.github.io/</loc>
-  <lastmod>2026-11-06T20:37:00Z</lastmod>
+  <lastmod>2026-11-13T21:14:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://sashakile.github.io/en/" />
  </url>
  <url>
@@ -61,6 +61,10 @@
  <url>
   <loc>https://sashakile.github.io/categories/tutorial/</loc>
   <lastmod>2024-11-09T12:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://sashakile.github.io/charla-after-chatbon/</loc>
+  <lastmod>2026-11-13T21:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://sashakile.github.io/charla-cata/</loc>
